@@ -2,7 +2,7 @@
 ---
 ## Mason:
 - [10/11/2023 - DONE] [ EN & EASE done, GOCO [1/2] ] ONEDT&CREST:  EASE  , GOCO portal - 2/3 EE extraction (dept extraction pending)
-- [10/11/2023 - DONE] JS Code update due to website change (isolved) 
+- [10/11/2023 - DONE] JS Code update due to website change (isolved)
 - [10/12/2023] GDP macro to combine 3 CFO report into template
 
 ## Rain:
@@ -12,6 +12,8 @@
 - [10/11/2023 - DONE] M3 script update
 - [10/12/2023 ] M3 communicate shared folder
 - [10/11/2023 - DONE] AAD script update
+
+### Rain's PENDIGN TASKS
 - HWS policy checking oppotunity
 
 ## Chloe:
@@ -50,8 +52,12 @@
 
 - [10/11/2023 - DONE] DGA training macro
 
+### June's PENDIGN TASKS
 - Policy checking macro deploy in FTE team
-
+- Admin task LKI
+- Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
+- FPI macro YYTD REPORT
+- LOCKTEN MONITOR PEAK SEASON
 
 
 
