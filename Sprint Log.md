@@ -6,15 +6,15 @@
 - [10/12/2023 - DONE] GDP - iSolved: SIT & deploy JS Code 
 - [10/12/2023 - DONE] GDP - Selerix Dept extraction: SIT & deploy JS Code 
 - [10/12/2023 - DONE] CREST: JS notification email send to team
-- [10/12/2023 - 10/13/2023] GDP - macro to combine 3 CFO report into template
+- [10/12/2023 - DONE] ASSA: deploy CNA for ASSA
+- [10/16/2023 - DONE] GDP - CENCUS AUDIT observation
+- [10/16/2023 ] GDP - CENCUS AUDIT 
+- [10/12/2023 - 10/13/2023 hold for CENCUS AUDIT dev] GDP - macro to combine 3 CFO report into template
+
 
 ## Rain:
-- [10/12/2023]ABD CREAT SPD (JS) - holding due to 1
-    1. low volume, low ROI
-    2. pending confirm with team
-
 - [10/13/2023] HWS - Download Documents from Carriers Websites - Selective Flood
-    1. [10/13/2023] check POL in EPIC see if PL/CL AB/DB CSR
+    1. [10/13/2023 - 10/16/2023] check POL in EPIC see if PL/CL AB/DB CSR
     2. download document from Selective
 
 - AAD Decison workflow
@@ -25,6 +25,10 @@
 
 ### Rain's PENDIGN TASKS
 - HWS policy checking oppotunity
+- [10/12/2023 Holding]ABD CREAT SPD (JS) - holding due to 1
+    1. low volume, low ROI
+    2. pending confirm with team
+
 
 ## Chloe:
 - OPEX update
@@ -33,17 +37,17 @@
         2. [10/11/2023 - DONE] system call failed - added a function to re-do the email function, need a test
         3. [10/12/2023 - DONE] Out of range error
         4. [10/13/2023] New UAT issue
-            - Daily report new issue
-            - Calculate error ratio issue
-            - An Error notification
+            - [10/13/2023 - DONE] Daily report new issue
+            - [pending for OPEX audit standard ]Calculate error ratio issue
+            - [10/13/2023 - DONE] An Error notification
 
 - Billing Audit
     - SIT: Test with team provided data and see if the automation result could match their manual result.
-        1. [10/10/2023 - 10/13/2023] SIT with coding material (principle)
-        2. [10/11/2023 - 10/13/2023] SIT with FPI/CREST/ABD/WA provided material
-            * [10/11/2023]  Guardian with 3 portal
-            * [10/12/2023 - 10/13/2023]  principle with EN
-            * [] Guardian with 3 portal & Principle with 2 portal
+        * [10/11/2023 - 10/13/2023] SIT with FPI/CREST/ABD/WA provided material
+        1. Guardian with 4 portal & Principle with 2 portal
+            * [10/11/2023 - DONE] Guardian with 3 portal
+            * [] Guardian with 1 new portal
+            * [10/12/2023 - 10/16/2023] principle with EN
     - UAT: Test in team with real data, team audit if the automation running properly
 
 - ABD WorkReport (Macro)
