@@ -13,18 +13,19 @@
 
 
 ## Rain:
-- [10/13/2023] HWS - Download Documents from Carriers Websites - Selective Flood
-    1. [10/13/2023 - 10/16/2023] check POL in EPIC see if PL/CL AB/DB CSR
-    2. download document from Selective
-
-- AAD Decison workflow
 - [10/11/2023-10/12/2023 - DONE] HWS macro update: task assignment
 - [10/11/2023 - DONE] M3 script update
 - [10/12/2023 - DONE] M3 communicate shared folder
 - [10/11/2023 - DONE] AAD script update
+- [10/13/2023] HWS - Download Documents from Carriers Websites - Selective Flood  [2w]
+    1. [10/13/2023 - 10/17/2023] check POL in EPIC see if PL/CL AB/DB CSR
+    2. [hold due to no account]download document from Selective
+- [10/16/2023] Observe HWS policy checking compare location & compare VEH
+- AAD Decison workflow [1-2day]
 
 ### Rain's PENDIGN TASKS
-- HWS policy checking oppotunity
+- HWS policy checking checking compare location & compare VEH [2w]
+- HWS Renewal task UIautomation [2w]
 - [10/12/2023 Holding]ABD CREAT SPD (JS) - holding due to 1
     1. low volume, low ROI
     2. pending confirm with team
@@ -38,45 +39,46 @@
         3. [10/12/2023 - DONE] Out of range error
         4. [10/13/2023] New UAT issue
             - [10/13/2023 - DONE] Daily report new issue
-            - [pending for OPEX audit standard ]Calculate error ratio issue
+            - [10/16/2023 - 10/17/2023] Calculate error ratio issue - # error/# task
             - [10/13/2023 - DONE] An Error notification
 
 - Billing Audit
     - SIT: Test with team provided data and see if the automation result could match their manual result.
         * [10/11/2023 - 10/13/2023] SIT with FPI/CREST/ABD/WA provided material
-        1. Guardian with 4 portal & Principle with 2 portal
+        1. Guardian with 4 portal & Principle with 2 portal [1w]
             * [10/11/2023 - DONE] Guardian with 3 portal
-            * [] Guardian with 1 new portal
-            * [10/12/2023 - 10/16/2023] principle with EN
+            * [] Guardian with 1 new portal 
+            * [10/12/2023 - 10/17/2023] principle with EN
     - UAT: Test in team with real data, team audit if the automation running properly
 
-- ABD WorkReport (Macro)
-    - Talk with Henry on requirements validation
+- ABD WorkReport (Macro)[1.5w]
+    - [10/13/2023 - DONE]Talk with Henry on requirements validation
     - audit report with previous month
+
+- GDP upload to BP REPLACE WITH PAD
 
 
 ## June:
-- ABD WorkReport (UiPath)
+- ABD WorkReport (UiPath)[1w]
     1. login Websit(error handle for password expire notice)
-        1.  [10/10/2023 - DONE] error handle
-        2.  [10/10/2023 - DONE] revise countif method
-        3.  [10/11/2023 - DONE] finalize login workflow
-        4.  [10/11/2023 - 10/12/2023 - DONE] read group list config
-        5.  [10/12/2023 - DONE] read waiting period config
-        4.  login with MFA
-    2. generate 3 kind of report
-        1. [10/12/2023 - 10/13/2023] download Employee and Dependent/Beneficiary Enrollments report
-        2. 
-    3. download report
-    4. Save to filetodcs
-
+        *  [10/10/2023 - DONE] error handle
+        *  [10/10/2023 - DONE] revise countif method
+        *  [10/11/2023 - DONE] finalize login workflow
+        *  [10/11/2023 - 10/12/2023 - DONE] read group list config
+        *  [10/12/2023 - DONE] read waiting period config
+        *  login with MFA
+    2. generate 3 kind of report and download report
+        * [10/12/2023 - 10/17/2023] download Employee and Dependent/Beneficiary Enrollments report
+        * [] download Termination report
+        * [] download Employee Enrollments Comparison report
+    3. Save to filetodcs
 - [10/11/2023 - DONE] DGA training macro
 
 ### June's PENDIGN TASKS
+- FPI macro YYTD REPORT [1w]
 - Policy checking macro deploy in FTE team
 - Admin task LKI
 - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
-- FPI macro YYTD REPORT
 - LOCKTEN MONITOR PEAK SEASON
 
 
