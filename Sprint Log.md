@@ -1,14 +1,15 @@
 # Sprint 90
 ---
 ## Mason:
-- [10/11/2023 - DONE] [ EN & EASE done, GOCO [1/2] ] ONEDT:  EASE  , GOCO portal - 2/3 EE extraction (dept extraction pending)
+- [10/11/2023 - DONE] (EN & EASE done, GOCO [1/2])  ONEDT:  EASE  , GOCO portal - 2/3 EE extraction (dept extraction pending)
 - [10/11/2023 - DONE] GDP - JS Code update due to website change (isolved)
 - [10/12/2023 - DONE] GDP - iSolved: SIT & deploy JS Code 
 - [10/12/2023 - DONE] GDP - Selerix Dept extraction: SIT & deploy JS Code 
 - [10/12/2023 - DONE] CREST: JS notification email send to team
 - [10/12/2023 - DONE] ASSA: deploy CNA for ASSA
-- [10/16/2023 - DONE] GDP - CENCUS AUDIT observation
-- [10/16/2023 ] GDP - CENCUS AUDIT 
+- [10/16/2023 - 10/17/2023 - DONE] GDP - CENCUS AUDIT observation
+- [10/17/2023 - DONE] GDP - CENCUS AUDIT 
+- [10/17/2023 - DONE] GDP - temp -Jenny's CENCUS compare with PDF Invoice
 - [10/12/2023 - 10/13/2023 hold for CENCUS AUDIT dev] GDP - macro to combine 3 CFO report into template
 
 
@@ -17,11 +18,11 @@
 - [10/11/2023 - DONE] M3 script update
 - [10/12/2023 - DONE] M3 communicate shared folder
 - [10/11/2023 - DONE] AAD script update
-- [10/13/2023] HWS - Download Documents from Carriers Websites - Selective Flood  [2w]
-    1. [10/13/2023 - 10/17/2023] check POL in EPIC see if PL/CL AB/DB CSR
+- [10/13/2023 HOLDING] HWS - Download Documents from Carriers Websites - Selective Flood  [2w]
+    1. [10/13/2023 - 10/17/2023 hold due to no PAD Chrome ext.] check POL in EPIC see if PL/CL AB/DB CSR
     2. [hold due to no account]download document from Selective
-- [10/16/2023] Observe HWS policy checking compare location & compare VEH
-- AAD Decison workflow [1-2day]
+- [10/16/2023 - DONE] Observe HWS policy checking compare location & compare VEH
+- [10/18/2023] AAD Decison workflow [1-2day]
 
 ### Rain's PENDIGN TASKS
 - HWS policy checking checking compare location & compare VEH [2w]
@@ -39,8 +40,9 @@
         3. [10/12/2023 - DONE] Out of range error
         4. [10/13/2023] New UAT issue
             - [10/13/2023 - DONE] Daily report new issue
-            - [10/16/2023 - 10/17/2023] Calculate error ratio issue - # error/# task
+            - [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
             - [10/13/2023 - DONE] An Error notification
+            - [10/18/2023] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
 
 - Billing Audit
     - SIT: Test with team provided data and see if the automation result could match their manual result.
@@ -68,7 +70,7 @@
         *  [10/12/2023 - DONE] read waiting period config
         *  login with MFA
     2. generate 3 kind of report and download report
-        * [10/12/2023 - 10/17/2023] download Employee and Dependent/Beneficiary Enrollments report
+        * [10/12/2023 - 10/18/2023] download Employee and Dependent/Beneficiary Enrollments report
         * [] download Termination report
         * [] download Employee Enrollments Comparison report
     3. Save to filetodcs
