@@ -10,7 +10,8 @@
 - [10/16/2023 - 10/17/2023 - DONE] GDP - CENCUS AUDIT observation
 - [10/17/2023 - DONE] GDP - CENCUS AUDIT 
 - [10/17/2023 - DONE] GDP - temp -Jenny's CENCUS compare with PDF Invoice
-- [10/12/2023 - 10/13/2023 hold for CENCUS AUDIT dev] GDP - macro to combine 3 CFO report into template
+- [10/18/2023 - DONE] GDP - revise Teladoc download method, added a group list to read config to replace download all
+- [10/12/2023 - 10/13/2023,] GDP - macro to combine 3 CFO report into template
 
 
 ## Rain:
@@ -22,7 +23,9 @@
     1. [10/13/2023 - 10/17/2023 hold due to no PAD Chrome ext.] check POL in EPIC see if PL/CL AB/DB CSR
     2. [hold due to no account]download document from Selective
 - [10/16/2023 - DONE] Observe HWS policy checking compare location & compare VEH
-- [10/18/2023] AAD Decison workflow [1-2day]
+- [10/18/2023 - 10/19/2023] AAD Decison workflow [1-2day]
+- [10/19/2023] AAD uipath workflow on handle verification code
+
 
 ### Rain's PENDIGN TASKS
 - HWS policy checking checking compare location & compare VEH [2w]
@@ -42,16 +45,18 @@
             - [10/13/2023 - DONE] Daily report new issue
             - [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
             - [10/13/2023 - DONE] An Error notification
-            - [10/18/2023] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
+            - [10/18/2023] error ratio not match issue
+            - [10/18/2023 - 10/19/2023] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
+           
 
 - Billing Audit
     - SIT: Test with team provided data and see if the automation result could match their manual result.
-        * [10/11/2023 - 10/13/2023] SIT with FPI/CREST/ABD/WA provided material
-        1. Guardian with 4 portal & Principle with 2 portal [1w]
-            * [10/11/2023 - DONE] Guardian with 3 portal
-            * [] Guardian with 1 new portal 
-            * [10/12/2023 - 10/17/2023] principle with EN
+        * [10/11/2023 - 10/18/2023 - DONE] SIT with FPI/CREST/ABD/WA provided material
+        1. Guardian with 4 portal & Principle with 2 portal
+            * [10/11/2023 - DONE] Guardian with 4 portal
+            * [10/12/2023 - 10/18/2023 - DONE] principle with ENH & ENV
     - UAT: Test in team with real data, team audit if the automation running properly
+
 
 - ABD WorkReport (Macro)[1.5w]
     - [10/13/2023 - DONE]Talk with Henry on requirements validation
@@ -70,11 +75,13 @@
         *  [10/12/2023 - DONE] read waiting period config
         *  login with MFA
     2. generate 3 kind of report and download report
-        * [10/12/2023 - 10/18/2023] download Employee and Dependent/Beneficiary Enrollments report
+        * [10/12/2023 - 10/19/2023] download Employee and Dependent/Beneficiary Enrollments report
         * [] download Termination report
-        * [] download Employee Enrollments Comparison report
+        * [10/19/2023] download Employee Enrollments Comparison report
     3. Save to filetodcs
 - [10/11/2023 - DONE] DGA training macro
+- [10/18/2023 - 10/19/2023] Billing Audit MERGE DATA
+
 
 ### June's PENDIGN TASKS
 - FPI macro YYTD REPORT [1w]
