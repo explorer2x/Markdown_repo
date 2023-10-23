@@ -11,7 +11,7 @@
 - [10/17/2023 - DONE] GDP - CENCUS AUDIT 
 - [10/17/2023 - DONE] GDP - temp -Jenny's CENCUS compare with PDF Invoice
 - [10/18/2023 - DONE] GDP - revise Teladoc download method, added a group list to read config to replace download all
-- [10/12/2023 - 10/13/2023,] GDP - macro to combine 3 CFO report into template
+- [10/12/2023 - 10/13/2023, 10/23/2023] GDP - macro to combine 3 CFO report into template
 
 
 ## Rain:
@@ -41,26 +41,29 @@
         1. [10/11/2023 - DONE] 1.0 & 2.0 result different
         2. [10/11/2023 - DONE] system call failed - added a function to re-do the email function, need a test
         3. [10/12/2023 - DONE] Out of range error
-        4. [10/13/2023] New UAT issue
+        4. [10/13/2023 - 10/20/2023 - DONE] New UAT issue
             - [10/13/2023 - DONE] Daily report new issue
             - [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
             - [10/13/2023 - DONE] An Error notification
-            - [10/18/2023] error ratio not match issue
-            - [10/18/2023 - 10/19/2023] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
-           
+            - [10/18/2023 - DONE] error ratio not match issue
+            - [10/18/2023 - 10/19/2023 - DONE] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
+            - [10/20/2023 - DONE] error handle added
+
 
 - Billing Audit
-    - SIT: Test with team provided data and see if the automation result could match their manual result.
+    - [10/11/2023 - 10/20/2023 - DONE] SIT: Test with team provided data and see if the automation result could match their manual result.
         * [10/11/2023 - 10/18/2023 - DONE] SIT with FPI/CREST/ABD/WA provided material
         1. Guardian with 4 portal & Principle with 2 portal
             * [10/11/2023 - DONE] Guardian with 4 portal
             * [10/12/2023 - 10/18/2023 - DONE] principle with ENH & ENV
-    - UAT: Test in team with real data, team audit if the automation running properly
-
+    - [10/20/2023] UAT: Test in team with real data, team audit if the automation running properly
+        * collect team feedback and maintain code per request
+        * WA/ABD/CREST
 
 - ABD WorkReport (Macro)[1.5w]
     - [10/13/2023 - DONE]Talk with Henry on requirements validation
     - audit report with previous month
+        * [10/20/2023 - 10/23/2023]Compare Downloaded Report [https://jira.rspinternal.com/browse/PAI-8726] 
 
 - GDP upload to BP REPLACE WITH PAD
 
@@ -74,13 +77,13 @@
         *  [10/11/2023 - 10/12/2023 - DONE] read group list config
         *  [10/12/2023 - DONE] read waiting period config
         *  login with MFA
-    2. generate 3 kind of report and download report
-        * [10/12/2023 - 10/19/2023] download Employee and Dependent/Beneficiary Enrollments report
-        * [] download Termination report
-        * [10/19/2023] download Employee Enrollments Comparison report
-    3. Save to filetodcs
+    2. generate 3 kind of report and download report, Save to filetodcs
+        * [10/12/2023 - 10/20/2023 - DONE] download Employee and Dependent/Beneficiary Enrollments report
+        * [10/23/2023] download Termination report
+        * [10/19/2023 - 10/23/2023] download Employee Enrollments Comparison report
+        
 - [10/11/2023 - DONE] DGA training macro
-- [10/18/2023 - 10/19/2023] Billing Audit MERGE DATA
+- [10/18/2023 - 10/20/2023 - DONE] Billing Audit MERGE DATA
 
 
 ### June's PENDIGN TASKS
@@ -89,7 +92,6 @@
 - Admin task LKI
 - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
 - LOCKTEN MONITOR PEAK SEASON
-
 
 
 ---
