@@ -1,3 +1,42 @@
+# Sprint 91
+---
+- public pending work: 
+    * ABD Census Transformation
+    * ABD Create Consolidated Reports
+    * ABD WorkReport new portal
+
+## Mason:
+- ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT
+- ONEDT: find more opportunity
+- replace on EXLEL USERFACE with HTML
+
+## Rain:
+- HWS policy checking compare location 
+- HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
+
+## Chloe:
+- OPEX update: log the bug ratio (# of audit / # of bug)
+- ABD WorkReport (Macro)[1.5w]
+    - audit report with previous month
+        * [10/20/2023 - 10/23/2023]Compare Downloaded Report [https://jira.rspinternal.com/browse/PAI-8726]
+- GDP upload to BP REPLACE WITH PAD
+    * book observation with GDP team to observe upload process daily report
+    * move WA code to PAD and test
+
+## June:
+ - ABD WorkReport (UiPath)
+    1. login Websit(error handle for password expire notice)
+        *  login with MFA
+    2. generate 3 kind of report and download report, Save to filetodcs
+        * [] download Termination report
+        * [10/19/2023 - 10/24/2023] download Employee Enrollments Comparison report
+        
+ - FPI	TTYD Reporting
+
+ - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
+
+
+
 # Sprint 90
 ---
 ## Mason:
@@ -19,9 +58,6 @@
 - [10/11/2023 - DONE] M3 script update
 - [10/12/2023 - DONE] M3 communicate shared folder
 - [10/11/2023 - DONE] AAD script update
-- [10/13/2023 HOLDING] HWS - Download Documents from Carriers Websites - Selective Flood  [2w]
-    1. [10/13/2023 - 10/17/2023 hold due to no PAD Chrome ext.] check POL in EPIC see if PL/CL AB/DB CSR
-    2. [hold due to no account]download document from Selective
 - [10/16/2023 - DONE] Observe HWS policy checking compare location & compare VEH
 - [10/18/2023 - 10/19/2023 - DONE] AAD Decison workflow
 - [10/19/2023 - DONE] AAD 4 uipath workflow on handle verification code
@@ -32,7 +68,9 @@
 - [10/12/2023 Holding]ABD CREAT SPD (JS) - holding due to 1
     1. low volume, low ROI
     2. pending confirm with team
-
+- [10/13/2023 HOLDING] HWS - Download Documents from Carriers Websites - Selective Flood  [2w]
+    1. [10/13/2023 - 10/17/2023 hold due to no PAD Chrome ext.] check POL in EPIC see if PL/CL AB/DB CSR
+    2. [hold due to no account]download document from Selective
 
 ## Chloe:
 - OPEX update
@@ -66,7 +104,7 @@
     - audit report with previous month
         * [10/20/2023 - 10/23/2023]Compare Downloaded Report [https://jira.rspinternal.com/browse/PAI-8726] 
 
-- GDP upload to BP REPLACE WITH PAD
+
 
 
 ## June:
