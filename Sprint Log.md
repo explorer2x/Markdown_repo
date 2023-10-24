@@ -11,7 +11,7 @@
 - [10/17/2023 - DONE] GDP - CENCUS AUDIT 
 - [10/17/2023 - DONE] GDP - temp -Jenny's CENCUS compare with PDF Invoice
 - [10/18/2023 - DONE] GDP - revise Teladoc download method, added a group list to read config to replace download all
-- [10/12/2023 - 10/13/2023, 10/23/2023] GDP - macro to combine 3 CFO report into template
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 
 
 ## Rain:
@@ -23,12 +23,11 @@
     1. [10/13/2023 - 10/17/2023 hold due to no PAD Chrome ext.] check POL in EPIC see if PL/CL AB/DB CSR
     2. [hold due to no account]download document from Selective
 - [10/16/2023 - DONE] Observe HWS policy checking compare location & compare VEH
-- [10/18/2023 - 10/19/2023] AAD Decison workflow [1-2day]
-- [10/19/2023] AAD uipath workflow on handle verification code
-
+- [10/18/2023 - 10/19/2023 - DONE] AAD Decison workflow
+- [10/19/2023 - DONE] AAD 4 uipath workflow on handle verification code
+- [10/24/2023] HWS policy checking compare location & compare VEH
 
 ### Rain's PENDIGN TASKS
-- HWS policy checking checking compare location & compare VEH [2w]
 - HWS Renewal task UIautomation [2w]
 - [10/12/2023 Holding]ABD CREAT SPD (JS) - holding due to 1
     1. low volume, low ROI
@@ -41,21 +40,23 @@
         1. [10/11/2023 - DONE] 1.0 & 2.0 result different
         2. [10/11/2023 - DONE] system call failed - added a function to re-do the email function, need a test
         3. [10/12/2023 - DONE] Out of range error
-        4. [10/13/2023 - 10/20/2023 - DONE] New UAT issue
+        4. [10/13/2023 - 10/23/2023 - DONE] New UAT issue
             - [10/13/2023 - DONE] Daily report new issue
             - [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
             - [10/13/2023 - DONE] An Error notification
             - [10/18/2023 - DONE] error ratio not match issue
             - [10/18/2023 - 10/19/2023 - DONE] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
             - [10/20/2023 - DONE] error handle added
+            - [10/23/2023 - DONE] revise file name rule to validate " - ", and log tab
 
 
 - Billing Audit
-    - [10/11/2023 - 10/20/2023 - DONE] SIT: Test with team provided data and see if the automation result could match their manual result.
+    - [10/11/2023 - 10/24/2023] SIT: Test with team provided data and see if the automation result could match their manual result.
         * [10/11/2023 - 10/18/2023 - DONE] SIT with FPI/CREST/ABD/WA provided material
-        1. Guardian with 4 portal & Principle with 2 portal
+        * Guardian with 4 portal & Principle with 2 portal
             * [10/11/2023 - DONE] Guardian with 4 portal
             * [10/12/2023 - 10/18/2023 - DONE] principle with ENH & ENV
+        * [10/23/2023 - 10/24/2023] compare when special split rule
     - [10/20/2023] UAT: Test in team with real data, team audit if the automation running properly
         * collect team feedback and maintain code per request
         * WA/ABD/CREST
@@ -79,8 +80,8 @@
         *  login with MFA
     2. generate 3 kind of report and download report, Save to filetodcs
         * [10/12/2023 - 10/20/2023 - DONE] download Employee and Dependent/Beneficiary Enrollments report
-        * [10/23/2023] download Termination report
-        * [10/19/2023 - 10/23/2023] download Employee Enrollments Comparison report
+        * [] download Termination report
+        * [10/19/2023 - 10/24/2023] download Employee Enrollments Comparison report
         
 - [10/11/2023 - DONE] DGA training macro
 - [10/18/2023 - 10/20/2023 - DONE] Billing Audit MERGE DATA
