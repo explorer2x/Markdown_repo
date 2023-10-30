@@ -41,12 +41,12 @@
     * [10/27/2023 - DONE] optimize code
     * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
      
-- ABD WorkReport (Macro)[1.5w]
-    - audit report with previous month
-        * [10/20/2023 - 10/30/2023] [Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
-            1. [10/27/2023 - DONE] a genearl workframe
-            2. [10/30/2023] audit 2 report file
-            3. log discrepancy
+- [ABD WorkReport Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
+    1. Get downloaded report folder.
+    2. Loop folder from step 1 and get the file address that need to audit. Loop to open them.
+    3. Gets the columns of the opened file in step 3 that need to audit.
+    4. Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.
+    5. Log record function, input an array, and log each item in log sheet’s last row.
  
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
