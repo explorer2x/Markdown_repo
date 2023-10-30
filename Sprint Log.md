@@ -6,19 +6,36 @@
     * ABD WorkReport new portal
 
 ## Mason:
-- ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT
-- ONEDT: find more opportunity
+- [10/25/2023] ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT)
+- [10/26/2023 - DONE] ONEDT: talk with Nancy to find more opportunity
+- [10/25/2023] CREST follow up
 - replace on EXLEL USERFACE with HTML
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
+
 
 ## Rain:
-- HWS policy checking compare location 
-- HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
+- [10/26/2023 - 10/27/2023] HWS policy checking compare location 
+- [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
+
 
 ## Chloe:
 - OPEX update: log the bug ratio (# of audit / # of bug)
+    - [10/24/2023 - DONE] cannot match
+    - [10/26/2023 - DONE] date validation for 1 day trainee 
+    - [10/26/2023 - DONE] email wording, Data tab have value but email says no data generated
+
+- Billing Audit
+    * [10/25/2023 - DONE] compare when special split rule
+    * [10/25/2023 - DONE] change clearcontents to delete row
+    * [10/25/2023 - DONE] [button logic on platform. remove popup window](https://jira.rspinternal.com/browse/PAI-8805)
+    * [10/25/2023 - DONE] re-write merge name function
+    * [10/26/2023 - DONE] highlight dup name function
+     
 - ABD WorkReport (Macro)[1.5w]
     - audit report with previous month
-        * [10/20/2023 - 10/23/2023]Compare Downloaded Report [https://jira.rspinternal.com/browse/PAI-8726]
+        * [10/20/2023 - 10/27/2023] [Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
+ 
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
     * move WA code to PAD and test
@@ -28,8 +45,9 @@
     1. login Websit(error handle for password expire notice)
         *  login with MFA
     2. generate 3 kind of report and download report, Save to filetodcs
-        * [] download Termination report
-        * [10/19/2023 - 10/24/2023] download Employee Enrollments Comparison report
+        * [10/25/2023 - 10/26/2023] download Termination report
+        * [10/24/2023 - 10/25/2023 - DONE] download Employee Enrollments Comparison report
+        * [10/24/2023 - DONE] navigate issue: cannot navigate after click button
         
  - FPI	TTYD Reporting
 
@@ -86,6 +104,7 @@
             - [10/18/2023 - 10/19/2023 - DONE] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
             - [10/20/2023 - DONE] error handle added
             - [10/23/2023 - DONE] revise file name rule to validate " - ", and log tab
+            - [10/24/2023 - DONE] revise audit / data tab / trainer_tab logic
 
 
 - Billing Audit
@@ -99,6 +118,7 @@
         * collect team feedback and maintain code per request
         * WA/ABD/CREST
 
+    
 - ABD WorkReport (Macro)[1.5w]
     - [10/13/2023 - DONE]Talk with Henry on requirements validation
     - audit report with previous month
