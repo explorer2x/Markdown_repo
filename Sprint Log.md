@@ -6,17 +6,24 @@
     * ABD WorkReport new portal
 
 ## Mason:
-- [10/25/2023] ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT)
+- [10/25/2023 - DONE] ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT)
 - [10/26/2023 - DONE] ONEDT: talk with Nancy to find more opportunity
-- [10/25/2023] CREST follow up
-- replace on EXLEL USERFACE with HTML
+- [10/25/2023 - DONE] CREST follow up
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
+- [10/27/2023 - DONE] create parent case JS 
+- Maintain JS [10/27/2023 - 10/26/2023]
+    - [10/30/2023] principle ADDRESS REMOVE #
+    - [10/30/2023] Guardian DOH SELECT & PHONE
+    - DeltaAllied re-design due to website upgrade
+    - MOO - occupation
 
+- replace on EXLEL USERFACE with HTML
 
 ## Rain:
-- [10/26/2023 - 10/27/2023] HWS policy checking compare location 
+- [10/26/2023 - 10/30/2023] HWS policy checking compare location 
 - [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
+- [10/27/2023 - DONE] M3 150 VEH compare
 
 
 ## Chloe:
@@ -31,24 +38,35 @@
     * [10/25/2023 - DONE] [button logic on platform. remove popup window](https://jira.rspinternal.com/browse/PAI-8805)
     * [10/25/2023 - DONE] re-write merge name function
     * [10/26/2023 - DONE] highlight dup name function
+    * [10/27/2023 - DONE] optimize code
+    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
      
 - ABD WorkReport (Macro)[1.5w]
     - audit report with previous month
-        * [10/20/2023 - 10/27/2023] [Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
+        * [10/20/2023 - 10/30/2023] [Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
+            1. [10/27/2023 - DONE] a genearl workframe
+            2. [10/30/2023] audit 2 report file
+            3. log discrepancy
  
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
     * move WA code to PAD and test
 
 ## June:
- - ABD WorkReport (UiPath)
+- ABD WorkReport (UiPath)
     1. login Websit(error handle for password expire notice)
         *  login with MFA
     2. generate 3 kind of report and download report, Save to filetodcs
-        * [10/25/2023 - 10/26/2023] download Termination report
+        * [10/25/2023 - 10/26/2023 - DONE] download Termination report
         * [10/24/2023 - 10/25/2023 - DONE] download Employee Enrollments Comparison report
         * [10/24/2023 - DONE] navigate issue: cannot navigate after click button
+        * [10/30/2023] SIT the bot
         
+        
+- Billing Audit
+    - [10/26/2023 - DONE] mark the discrepancy's orignal source
+    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861)
+
  - FPI	TTYD Reporting
 
  - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
