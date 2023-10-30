@@ -11,14 +11,13 @@
 - [10/25/2023 - DONE] CREST follow up
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
-- [10/27/2023 - DONE] create parent case JS 
-- Maintain JS [10/27/2023 - 10/26/2023]
-    - [10/30/2023] principle ADDRESS REMOVE #
-    - [10/30/2023] Guardian DOH SELECT & PHONE
-    - DeltaAllied re-design due to website upgrade
-    - MOO - occupation
+- [10/27/2023 - DONE] ONEDT: create parent case JS 
+- Maintain JS
+    * [10/30/2023] principle ADDRESS REMOVE #
+    * [10/30/2023] Guardian DOH SELECT & PHONE
+    * DeltaAllied re-design due to website upgrade
+    * MOO - occupation
 
-- replace on EXLEL USERFACE with HTML
 
 ## Rain:
 - [10/26/2023 - 10/30/2023] HWS policy checking compare location 
@@ -28,9 +27,9 @@
 
 ## Chloe:
 - OPEX update: log the bug ratio (# of audit / # of bug)
-    - [10/24/2023 - DONE] cannot match
-    - [10/26/2023 - DONE] date validation for 1 day trainee 
-    - [10/26/2023 - DONE] email wording, Data tab have value but email says no data generated
+    * [10/24/2023 - DONE] cannot match
+    * [10/26/2023 - DONE] date validation for 1 day trainee 
+    * [10/26/2023 - DONE] email wording, Data tab have value but email says no data generated
 
 - Billing Audit
     * [10/25/2023 - DONE] compare when special split rule
@@ -110,19 +109,18 @@
 
 ## Chloe:
 - OPEX update
-    - email sending issue
-        1. [10/11/2023 - DONE] 1.0 & 2.0 result different
-        2. [10/11/2023 - DONE] system call failed - added a function to re-do the email function, need a test
-        3. [10/12/2023 - DONE] Out of range error
-        4. [10/13/2023 - 10/23/2023 - DONE] New UAT issue
-            - [10/13/2023 - DONE] Daily report new issue
-            - [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
-            - [10/13/2023 - DONE] An Error notification
-            - [10/18/2023 - DONE] error ratio not match issue
-            - [10/18/2023 - 10/19/2023 - DONE] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
-            - [10/20/2023 - DONE] error handle added
-            - [10/23/2023 - DONE] revise file name rule to validate " - ", and log tab
-            - [10/24/2023 - DONE] revise audit / data tab / trainer_tab logic
+    1. [10/11/2023 - DONE] 1.0 & 2.0 result different
+    2. [10/11/2023 - DONE] system call failed - added a function to re-do the email function, need a test
+    3. [10/12/2023 - DONE] Out of range error
+    4. [10/13/2023 - 10/23/2023 - DONE] New UAT issue
+        * [10/13/2023 - DONE] Daily report new issue
+        * [10/16/2023 - 10/17/2023 - DONE] Calculate error ratio issue - # error/# task
+        * [10/13/2023 - DONE] An Error notification
+        * [10/18/2023 - DONE] error ratio not match issue
+        * [10/18/2023 - 10/19/2023 - DONE] New request submitted by Rosa: if no submitted tab in attached checklist the program will no-respond [potential solution: add a judgement before assign sheet to submitted tab]
+        * [10/20/2023 - DONE] error handle added
+        * [10/23/2023 - DONE] revise file name rule to validate " - ", and log tab
+        * [10/24/2023 - DONE] revise audit / data tab / trainer_tab logic
 
 
 - Billing Audit
