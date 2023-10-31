@@ -12,15 +12,18 @@
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
 - [10/27/2023 - DONE] ONEDT: create parent case JS 
+- [10/30/2023 - 10/31/2023] validate saving data with GDP team on Sept data
 - Maintain JS
-    * [10/30/2023] principle ADDRESS REMOVE #
-    * [10/30/2023] Guardian DOH SELECT & PHONE
+    * [10/30/2023 - 10/31/2023] principle ADDRESS REMOVE #
+    * [10/30/2023 - 10/31/2023] Guardian DOH SELECT & PHONE
     * DeltaAllied re-design due to website upgrade
     * MOO - occupation
 
 
 ## Rain:
-- [10/26/2023 - 10/30/2023] HWS policy checking compare location 
+- [10/26/2023 - 10/30/2023] HWS policy checking compare location
+- [10/31/2023] Task assignment macro
+- [10/31/2023] demo to OPEX on HWS innovation idea
 - [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
 - [10/27/2023 - DONE] M3 150 VEH compare
 
@@ -38,10 +41,11 @@
     * [10/25/2023 - DONE] re-write merge name function
     * [10/26/2023 - DONE] highlight dup name function
     * [10/27/2023 - DONE] optimize code
-    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
-     
+    * [10/31/2023] [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
+
 - [ABD WorkReport Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
-    1. Get downloaded report folder.
+    0. [10/30/2023] design SDD
+    1. [10/31/2023]  Get downloaded report folder.
     2. Loop folder from step 1 and get the file address that need to audit. Loop to open them.
     3. Gets the columns of the opened file in step 3 that need to audit.
     4. Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.
@@ -59,15 +63,15 @@
         * [10/25/2023 - 10/26/2023 - DONE] download Termination report
         * [10/24/2023 - 10/25/2023 - DONE] download Employee Enrollments Comparison report
         * [10/24/2023 - DONE] navigate issue: cannot navigate after click button
-        * [10/30/2023] SIT the bot
-        
-        
+        * [10/30/2023 - 10/31/2023] SIT the bot
+
+
 - Billing Audit
     - [10/26/2023 - DONE] mark the discrepancy's orignal source
     * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861)
 
- - FPI	TTYD Reporting
 
+ - FPI	TTYD Reporting
  - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
 
 
