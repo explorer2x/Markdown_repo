@@ -15,9 +15,9 @@
 - [10/30/2023 - 10/31/2023] validate saving data with GDP team on Sept data
 - Maintain JS
     * [10/30/2023 - 10/31/2023 - DONE] principle ADDRESS REMOVE #
-    * [10/30/2023 - 10/31/2023] Guardian DOH SELECT & PHONE
-    * [10/31/2023 - 11/01/2023] DeltaAllied re-design due to website upgrade
-    * MOO - occupation
+    * [] Guardian DOH SELECT & PHONE
+    * [10/31/2023 - 11/02/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
 
 
 ## Rain:
@@ -26,9 +26,14 @@
 - [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
 - [10/27/2023 - DONE] M3 150 VEH compare
 - [11/01/2023] HWS DB STATEMENT MACRO UPDATE
-- [11/01/2023] M3 DOWNLOADING MACRO
+- [11/01/2023 - 11/02/2023] M3 DOWNLOADING MACRO
 - [11/03/2023] demo to OPEX on HWS innovation idea
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
+ 
+### Rain pending
+- AAD prepare a document for error collection, before Dec.
+- a universal tool to modify asset in Orch
+
 
 ## Chloe:
 - OPEX update: log the bug ratio (# of audit / # of bug)
@@ -44,14 +49,15 @@
     * [10/26/2023 - DONE] highlight dup name function
     * [10/27/2023 - DONE] optimize code
     * [10/31/2023 - DONE] [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
+    * [11/01/2023 - DONE] modify code to handle carrier is empty
 
 - [ABD WorkReport Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
     0. [10/30/2023] design SDD
-    1. [10/31/2023 - DONE]  Get downloaded report folder.
+    1. [10/31/2023 - DONE] Get downloaded report folder.
     2. [10/31/2023 - DONE] Loop folder from step 1 and get the file address that need to audit. Loop to open them.
     3. [10/31/2023 - DONE] Gets the columns of the opened file in step 3 that need to audit.
-    4. [11/01/2023] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.
-    5. [11/01/2023] Log record function, input an array, and log each item in log sheet’s last row.
+    4. [11/01/2023 - 11/02/2023] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.use name and DOH as search key.
+    5. [11/01/2023 - 11/02/2023] Log record function, input an array, and log each item in log sheet’s last row.
  
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
@@ -65,14 +71,14 @@
         * [10/25/2023 - 10/26/2023 - DONE] download Termination report
         * [10/24/2023 - 10/25/2023 - DONE] download Employee Enrollments Comparison report
         * [10/24/2023 - DONE] navigate issue: cannot navigate after click button
+        * [10/31/2023 - 11/01/2023 - DONE] fix Re-direct issue found in SIT when process next account(didn't clear searchbox)
+        * [10/31/2023 - 11/01/2023 - DONE] add login credential to an array for looping.
+        * [11/02/2023] test the verification code forward function
         * [10/30/2023 - 10/31/2023] SIT the bot
-        * [10/31/2023 - 11/01/2023] fix Re-direct issue found in SIT when process next account(didn't clear searchbox)
-        * [10/31/2023 - 11/01/2023] add login credential to an array for looping
-
 
 - Billing Audit
     - [10/26/2023 - DONE] mark the discrepancy's orignal source
-    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861)
+    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
 
 
  - FPI	TTYD Reporting
