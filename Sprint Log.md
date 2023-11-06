@@ -18,6 +18,8 @@
     * [] Guardian DOH SELECT & PHONE
     * [10/31/2023 - 11/02/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
+- [11/3/2023] work in ONEDT
+- [11/3/2023] THH EPIC MACRO
 
 
 ## Rain:
@@ -26,13 +28,14 @@
 - [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
 - [10/27/2023 - DONE] M3 150 VEH compare
 - [11/01/2023] HWS DB STATEMENT MACRO UPDATE
-- [11/01/2023 - 11/02/2023] M3 DOWNLOADING MACRO
-- [11/03/2023] demo to OPEX on HWS innovation idea
+- [11/01/2023 - 11/02/2023 - DONE] M3 DOWNLOADING MACRO
+- [11/03/2023 - DONE] demo to OPEX on HWS innovation idea
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
- 
+- [11/03/2023] a universal tool to modify asset in Orch
+- 
+
 ### Rain pending
 - AAD prepare a document for error collection, before Dec.
-- a universal tool to modify asset in Orch
 
 
 ## Chloe:
@@ -56,9 +59,9 @@
     1. [10/31/2023 - DONE] Get downloaded report folder.
     2. [10/31/2023 - DONE] Loop folder from step 1 and get the file address that need to audit. Loop to open them.
     3. [10/31/2023 - DONE] Gets the columns of the opened file in step 3 that need to audit.
-    4. [11/01/2023 - 11/02/2023] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.use name and DOH as search key.
-    5. [11/01/2023 - 11/02/2023] Log record function, input an array, and log each item in log sheet’s last row.
- 
+    4. [11/01/2023 - 11/03/2023] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.use name and DOH as search key.
+    5. [11/01/2023 - 11/03/2023] Log record function, input an array, and log each item in log sheet’s last row.
+
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
     * move WA code to PAD and test
@@ -84,6 +87,10 @@
  - FPI	TTYD Reporting
  - Admin task - ONED run performance report and get AHT&ACC for each EE, summarize team performace
 
+
+## Billing audit
+ - WA PENDIGN FOR UAT
+ - BKSEB PENDIGN FOR UAT
 
 
 # Sprint 90
