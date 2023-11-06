@@ -16,10 +16,11 @@
 - Maintain JS
     * [10/30/2023 - 10/31/2023 - DONE] principle ADDRESS REMOVE #
     * [] Guardian DOH SELECT & PHONE
-    * [10/31/2023 - 11/02/2023] DeltaAllied re-design due to website upgrade
+    * [10/31/2023 - 11/06/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
-- [11/3/2023] work in ONEDT
-- [11/3/2023] THH EPIC MACRO
+- [11/03/2023 - DONE] ONEDT - d365 function and EN function
+- [11/03/2023 - 11/06/2023] THH EPIC MACRO
+- [11/06/2023] confirm with ABD on carrier deployment status
 
 
 ## Rain:
@@ -27,16 +28,15 @@
 - [10/31/2023 - DONE] Task assignment macro
 - [10/25/2023 - DONE] HWS policy checking compare VEH (TEST WITH BILLING AUDIT CODE)
 - [10/27/2023 - DONE] M3 150 VEH compare
-- [11/01/2023] HWS DB STATEMENT MACRO UPDATE
 - [11/01/2023 - 11/02/2023 - DONE] M3 DOWNLOADING MACRO
 - [11/03/2023 - DONE] demo to OPEX on HWS innovation idea
-- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
-- [11/03/2023] a universal tool to modify asset in Orch
-- 
+- [11/01/2023] HWS DB STATEMENT MACRO UPDATE
+- [11/07/2023] Observation HWS Renew macro
 
 ### Rain pending
 - AAD prepare a document for error collection, before Dec.
-
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
 
 ## Chloe:
 - OPEX update: log the bug ratio (# of audit / # of bug)
@@ -76,8 +76,13 @@
         * [10/24/2023 - DONE] navigate issue: cannot navigate after click button
         * [10/31/2023 - 11/01/2023 - DONE] fix Re-direct issue found in SIT when process next account(didn't clear searchbox)
         * [10/31/2023 - 11/01/2023 - DONE] add login credential to an array for looping.
-        * [11/02/2023] test the verification code forward function
-        * [10/30/2023 - 10/31/2023] SIT the bot
+    3. SIT the bot
+        * [11/02/2023 - 11/06/2023] test the verification code forward function
+        * [11/06/2023] add Q&A in config for login
+        * [11/06/2023] combine 2 logins for ALL&NEWFRONT
+
+- [11/03/2023] observed locktonFTE new requirement: admin task in peak season
+- [11/03/2023] observed locktonEB new requirement: task assignment,  track forcast# & actual#
 
 - Billing Audit
     - [10/26/2023 - DONE] mark the discrepancy's orignal source
