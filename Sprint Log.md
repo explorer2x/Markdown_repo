@@ -1,27 +1,76 @@
-# Sprint 91
----
+# Sprint 92
+
 - public pending work: 
     * ABD Census Transformation
     * ABD Create Consolidated Reports
     * ABD WorkReport new portal
+    * FPI TTYD Reporting
 
 ## Mason:
-- [10/25/2023 - DONE] ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT)
-- [10/26/2023 - DONE] ONEDT: talk with Nancy to find more opportunity
-- [10/25/2023 - DONE] CREST follow up
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
-- [10/27/2023 - DONE] ONEDT: create parent case JS 
 - [10/30/2023 - 10/31/2023] validate saving data with GDP team on Sept data
 - Maintain JS
     * [10/30/2023 - 10/31/2023 - DONE] principle ADDRESS REMOVE #
     * [] Guardian DOH SELECT & PHONE
     * [10/31/2023 - 11/06/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
-- [11/03/2023 - DONE] ONEDT - d365 function and EN function
-- [11/03/2023 - 11/06/2023] THH EPIC MACRO
-- [11/06/2023] confirm with ABD on carrier deployment status
+- [] talk with Katrina on ONEDT volume using MIR actuall data
 
+## Rain:
+- [11/07/2023] Observation HWS Renew macro
+- [] a universal tool to modify asset in Orch
+
+### Rain pending
+- AAD prepare a document for error collection, before Dec.
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
+
+
+## Chloe:
+- ABD WorkReport Compare Downloaded Report
+    * [11/07/2023] SIT
+    * [11/07/2023] UAT
+    * [] other Portals macro update
+- Billing Audit
+    * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+
+- GDP upload to BP REPLACE WITH PAD
+    * book observation with GDP team to observe upload process daily report
+    * move WA code to PAD and test
+
+## June:
+- ABD WorkReport (UiPath) (2 day)
+    * [11/02/2023 - 11/07/2023]SIT the bot - test the verification code forward function
+    * [11/06/2023 - 11/07/2023]SIT the bot -  add Q&A in config for login
+
+- Billing Audit (1 day)
+    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
+    * [11/07/2023] copy miss info
+    * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+
+
+- locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
+- ONED run performance report and get AHT&ACC for each EE, summarize team performace
+- ONED run performance report and get AHT
+ 
+
+
+
+
+
+# Sprint 91
+---
+
+
+
+## Mason:
+- [10/25/2023 - DONE] ONEDT: talk with Katrina on saving calculation(baseline AHT and actual AHT)
+- [10/26/2023 - DONE] ONEDT: talk with Nancy to find more opportunity
+- [10/25/2023 - DONE] CREST follow up
+- [10/27/2023 - DONE] ONEDT: create parent case JS 
+- [11/03/2023 - DONE] ONEDT - d365 function and EN function
+- [11/03/2023 - 11/06/2023 - DONE] THH EPIC MACRO
+- [11/06/2023 - DONE] confirm with ABD on carrier deployment status
 
 ## Rain:
 - [10/26/2023 - 10/31/2023 - DONE] HWS policy checking compare location
@@ -30,13 +79,8 @@
 - [10/27/2023 - DONE] M3 150 VEH compare
 - [11/01/2023 - 11/02/2023 - DONE] M3 DOWNLOADING MACRO
 - [11/03/2023 - DONE] demo to OPEX on HWS innovation idea
-- [11/01/2023] HWS DB STATEMENT MACRO UPDATE
-- [11/07/2023] Observation HWS Renew macro
+- [11/06/2023 - DONE] HWS DB STATEMENT MACRO UPDATE
 
-### Rain pending
-- AAD prepare a document for error collection, before Dec.
-- [] a universal tool to modify asset in Orch
-- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
 
 ## Chloe:
 - OPEX update: log the bug ratio (# of audit / # of bug)
@@ -53,18 +97,18 @@
     * [10/27/2023 - DONE] optimize code
     * [10/31/2023 - DONE] [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8860)
     * [11/01/2023 - DONE] modify code to handle carrier is empty
+    * [11/07/2023] SSN & Name may contains "-", need to remove all symbol before compare
 
-- [ABD WorkReport Compare Downloaded Report](https://jira.rspinternal.com/browse/PAI-8726)
-    0. [10/30/2023] design SDD
-    1. [10/31/2023 - DONE] Get downloaded report folder.
-    2. [10/31/2023 - DONE] Loop folder from step 1 and get the file address that need to audit. Loop to open them.
-    3. [10/31/2023 - DONE] Gets the columns of the opened file in step 3 that need to audit.
-    4. [11/01/2023 - 11/03/2023] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.use name and DOH as search key.
-    5. [11/01/2023 - 11/03/2023] Log record function, input an array, and log each item in log sheet’s last row.
+- ABD WorkReport Compare Downloaded Report
+    * [10/30/2023 - DONE] design SDD
+    * [10/31/2023 - DONE] Get downloaded report folder.
+    * [10/31/2023 - DONE] Loop folder from step 1 and get the file address that need to audit. Loop to open them.
+    * [10/31/2023 - DONE] Gets the columns of the opened file in step 3 that need to audit.
+    * [11/01/2023 - 11/03/2023 - DONE] Use the column filtered by step 3 and Convert download report to 2 arrays and compare. Pass an array to log record function to log discrepancy.use name and DOH as search key.
+    * [11/01/2023 - 11/03/2023 - DONE] Log record function, input an array, and log each item in log sheet’s last row.
 
-- GDP upload to BP REPLACE WITH PAD
-    * book observation with GDP team to observe upload process daily report
-    * move WA code to PAD and test
+
+
 
 ## June:
 - ABD WorkReport (UiPath)
@@ -77,16 +121,18 @@
         * [10/31/2023 - 11/01/2023 - DONE] fix Re-direct issue found in SIT when process next account(didn't clear searchbox)
         * [10/31/2023 - 11/01/2023 - DONE] add login credential to an array for looping.
     3. SIT the bot
-        * [11/02/2023 - 11/06/2023] test the verification code forward function
-        * [11/06/2023] add Q&A in config for login
-        * [11/06/2023] combine 2 logins for ALL&NEWFRONT
+        * [11/02/2023 - 11/07/2023] test the verification code forward function
+        * [11/06/2023 - 11/07/2023] add Q&A in config for login
+        * [11/06/2023 - 11/07/2023 - DONE] combine 2 logins for ALL & NEWFRONT
 
-- [11/03/2023] observed locktonFTE new requirement: admin task in peak season
-- [11/03/2023] observed locktonEB new requirement: task assignment,  track forcast# & actual#
+
+- [11/03/2023 - DONE] observed locktonFTE new requirement: admin task in peak season
+- [11/03/2023 - DONE] observed locktonEB new requirement: task assignment,  track forcast# & actual#
 
 - Billing Audit
     - [10/26/2023 - DONE] mark the discrepancy's orignal source
     * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
+    * [11/07/2023] copy miss info
 
 
  - FPI	TTYD Reporting
