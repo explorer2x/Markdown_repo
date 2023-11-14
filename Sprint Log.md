@@ -15,19 +15,22 @@
     * [] Guardian DOH SELECT & PHONE
     * [10/31/2023 - 11/09/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
+- [11/13/2023 - DONE] Wex - new carrier
+    
 - [] talk with Katrina on ONEDT volume using MIR actuall data
 - [11/08/2023 - DONE] demo and deploy EB tool in CBIZEB team 
 
 ## Rain:
 - [11/07/2023 - DONE] Observation: HWS Renew macro
-- [11/08/2023 - DONE] maintain: M3 close ZENDESK
+- [11/08/2023 -11/13/2023] maintain: M3 close ZENDESK
 - [11/08/2023 - DONE] test&maintain M3 downloading
 - [11/08/2023 - DONE] Observation: M3JN EB task 
 - [11/09/2023] AAD prepare document
-- [] a universal tool to modify asset in Orch
+- [11/13/2023 - DONE] AAD new request to extract table list from website
 
 ### Rain pending
 - AAD prepare a document for error collection, before Dec.
+- [] a universal tool to modify asset in Orch
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
 
 
@@ -36,9 +39,14 @@
     * [11/07/2023 - 11/09/2023] SIT: minior changes to accelerate macro running speed, change key to dict..
     * [11/07/2023] UAT
     * [] other Portals macro update
+    * [] merge name 15s per tab and audit 14s per tab
+
 - Billing Audit
     * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
-    * [11/09/2023] SIT:SSN issue, if start with 0, remove the 0 before compare
+    * [11/09/2023 - DONE] SIT:SSN issue, if start with 0, remove the 0 before compare
+    * [11/10/2023 - 11/13/2023] optimize code speed
+
+-  [11/14/2023] THH merchants maintain
 
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
@@ -46,15 +54,18 @@
 
 ## June:
 - ABD WorkReport (UiPath) (2 day)
-    * [11/02/2023 - 11/09/2023]SIT the bot - test the verification code forward function, add vba code in Chloe's outlook to forward verification code.
-    * [11/06/2023 - 11/09/2023]SIT the bot -  add Q&A in config for login
+    * [11/02/2023 - 11/09/2023 - DONE]SIT the bot - test the verification code forward function, add vba code in Chloe's outlook to forward verification code.
+    * [11/06/2023 - 11/09/2023 - DONE]SIT the bot -  add Q&A in config for login
+    * [11/13/2023 - 11/14/2023] upload to dev to test, then UAT
 
 - Billing Audit (1 day)
-    * [pending optimize](https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
-    * [11/07/2023] copy miss info
+    * [11/13/2023 - 11/14/2023] (https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
+    * [11/07/2023 - DONE] copy miss info
+    * [11/09/2023 - DONE] remove non-used loop to speed up the code
+    * [11/13/2023 - DONE] debug on Henry's bug, added back a config removed column
     * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
-    * [11/09/2023] remove non-used loop to speed up the code
 
+- [11/13/2023 - DONE] communicate with SDU team on macro change
 
 - locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
 - ONED run performance report and get AHT&ACC for each EE, summarize team performace
@@ -66,6 +77,8 @@
 - Vlife issue: ee ok but spouse/child couldn't get
 - plan issue, HR plan
 - ABD FEEDBACK macro stucked with no clue, need change new 
+
+
 
 # Sprint 91
 ---
