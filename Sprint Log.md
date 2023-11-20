@@ -10,23 +10,30 @@
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
 - [10/30/2023 - 10/31/2023] validate saving data with GDP team on Sept data
+- [11/08/2023 - DONE] demo and deploy EB tool in CBIZEB team 
 - Maintain JS
     * [10/30/2023 - 10/31/2023 - DONE] principle ADDRESS REMOVE #
     * [] Guardian DOH SELECT & PHONE
-    * [10/31/2023 - 11/09/2023] DeltaAllied re-design due to website upgrade
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
+    * [11/17/2023] Allsaver maintain
 - [11/13/2023 - DONE] Wex - new carrier
-    
+- [11/14/2023 - DONE] GDP Teladoc Maintain
+- [11/14/2023 - 11/17/2023] GDP Shockclaim develop
+- [] CREST ENWALL ACTIVITY JS & audit macro
+
 - [] talk with Katrina on ONEDT volume using MIR actuall data
-- [11/08/2023 - DONE] demo and deploy EB tool in CBIZEB team 
+
 
 ## Rain:
 - [11/07/2023 - DONE] Observation: HWS Renew macro
-- [11/08/2023 -11/13/2023] maintain: M3 close ZENDESK
+- [11/08/2023 -11/14/2023- DONE] maintain: M3 close ZENDESK
 - [11/08/2023 - DONE] test&maintain M3 downloading
 - [11/08/2023 - DONE] Observation: M3JN EB task 
 - [11/09/2023] AAD prepare document
 - [11/13/2023 - DONE] AAD new request to extract table list from website
+- [11/15/2023 - 11/20/2023] HWS Individual Renew macro
+
 
 ### Rain pending
 - AAD prepare a document for error collection, before Dec.
@@ -36,38 +43,44 @@
 
 ## Chloe:
 - ABD WorkReport Compare Downloaded Report
-    * [11/07/2023 - 11/09/2023] SIT: minior changes to accelerate macro running speed, change key to dict..
-    * [11/07/2023] UAT
+    * [11/07/2023 - 11/09/2023, 11/16/2023] SIT: minior changes to accelerate macro running speed, change key to dict..
+    * [11/17/2023 - 11/20/2023] comparison per date
+    * [] UAT
     * [] other Portals macro update
-    * [] merge name 15s per tab and audit 14s per tab
 
 - Billing Audit
     * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
     * [11/09/2023 - DONE] SIT:SSN issue, if start with 0, remove the 0 before compare
-    * [11/10/2023 - 11/13/2023] optimize code speed
+    * [11/10/2023 - 11/14/2023 - DONE] optimize code speed
+    * [11/15/2023 - DONE] (https://rspproduct.atlassian.net/browse/PAI-9036) UAT with WA billing audit - name issue
 
--  [11/14/2023] THH merchants maintain
+- [11/16/2023 - 11/17/2023] OPEX project 2 issue maintain, email issue DONE, 
+- [11/15/2023 - DONE] THH merchants maintain
 
 - GDP upload to BP REPLACE WITH PAD
     * book observation with GDP team to observe upload process daily report
     * move WA code to PAD and test
 
 ## June:
-- ABD WorkReport (UiPath) (2 day)
+- ABD WorkReport (UiPath)
     * [11/02/2023 - 11/09/2023 - DONE]SIT the bot - test the verification code forward function, add vba code in Chloe's outlook to forward verification code.
     * [11/06/2023 - 11/09/2023 - DONE]SIT the bot -  add Q&A in config for login
-    * [11/13/2023 - 11/14/2023] upload to dev to test, then UAT
+    * [11/13/2023 - 11/20/2023] upload to dev to test, then UAT
+    * [11/17/2023 - 11/20/2023] add group list in bot
 
-- Billing Audit (1 day)
-    * [11/13/2023 - 11/14/2023] (https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
+- Billing Audit
+    * [11/13/2023 - 11/14/2023 - DONE] (https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
     * [11/07/2023 - DONE] copy miss info
     * [11/09/2023 - DONE] remove non-used loop to speed up the code
     * [11/13/2023 - DONE] debug on Henry's bug, added back a config removed column
+    * [11/15/2023 - 11/16/2023 - DONE] (https://rspproduct.atlassian.net/browse/PAP-2218) UAT with WA billing audit: fix tier issue
+    * [11/17/2023 - DONE] 1117 version SIT
     * new carrier deploy: Kaiser & Cigna (BCBS & UHC)
 
 - [11/13/2023 - DONE] communicate with SDU team on macro change
 
 - locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
+
 - ONED run performance report and get AHT&ACC for each EE, summarize team performace
 - ONED run performance report and get AHT
  
