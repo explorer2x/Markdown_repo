@@ -16,7 +16,8 @@
     * [] Guardian DOH SELECT & PHONE
     * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
-    * [11/17/2023] Allsaver maintain
+    * [11/17/2023 - 11/21/2023] Allsaver re-write
+
 - [11/13/2023 - DONE] Wex - new carrier
 - [11/14/2023 - DONE] GDP Teladoc Maintain
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
@@ -33,6 +34,7 @@
 - [11/09/2023] AAD prepare document
 - [11/13/2023 - DONE] AAD new request to extract table list from website
 - [11/15/2023 - 11/20/2023] HWS Individual Renew macro
+- [11/21/2023] AAD re-assign adjustor maintain
 
 
 ### Rain pending
@@ -53,8 +55,10 @@
     * [11/09/2023 - DONE] SIT:SSN issue, if start with 0, remove the 0 before compare
     * [11/10/2023 - 11/14/2023 - DONE] optimize code speed
     * [11/15/2023 - DONE] (https://rspproduct.atlassian.net/browse/PAI-9036) UAT with WA billing audit - name issue
+    * [11/20/2023 - 11/21/2023] life & vlife merge data config update, life Done
 
-- [11/16/2023 - 11/17/2023] OPEX project 2 issue maintain, email issue DONE, 
+- [11/16/2023 - 11/17/2023] OPEX project 2 issue maintain, email issue DONE, email wording issue
+- [11/20/2023] OPEX project 1 new issue maintain
 - [11/15/2023 - DONE] THH merchants maintain
 
 - GDP upload to BP REPLACE WITH PAD
@@ -65,8 +69,9 @@
 - ABD WorkReport (UiPath)
     * [11/02/2023 - 11/09/2023 - DONE]SIT the bot - test the verification code forward function, add vba code in Chloe's outlook to forward verification code.
     * [11/06/2023 - 11/09/2023 - DONE]SIT the bot -  add Q&A in config for login
-    * [11/13/2023 - 11/20/2023] upload to dev to test, then UAT
-    * [11/17/2023 - 11/20/2023] add group list in bot
+    * [11/17/2023 - 11/20/2023 - DONE] add group list in bot
+    * [11/13/2023 - 11/21/2023] upload to dev to test, then UAT, update MFA config
+
 
 - Billing Audit
     * [11/13/2023 - 11/14/2023 - DONE] (https://rspproduct.atlassian.net/browse/PAI-8861) To Do:  Copy column per config on plan level
