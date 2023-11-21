@@ -1,3 +1,54 @@
+# Sprint 93
+---
+## Mason:
+
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
+- [] validate saving data with GDP team on Sept data
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+    * [11/17/2023 - 11/21/2023] Allsaver re-write
+- [11/14/2023 - 11/17/2023] GDP Shockclaim develop
+- [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
+
+
+## Rain:
+
+- [] AAD Observation
+- [] AAD maintain daily report
+- [] 
+
+### Rain pending
+- AAD prepare a document for error collection, before Dec.
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
+
+
+## Chloe:
+
+- ABD WorkReport Compare Downloaded Report
+    * [] SIT pending issue: compare & log
+    * [] UAT
+
+- Billing Audit
+    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+
+
+## June:
+
+- ABD WorkReport (UiPath)
+    * [11/13/2023 - 11/21/2023] upload to dev to test, then UAT, update MFA config
+
+- Billing Audit
+    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+
+- [] ONED run performance report and get AHT&ACC for each EE, summarize team performace
+- [] DDD maintain liberty & DDIB
+
+
+
+
 # Sprint 92
 ---
 - public pending work: 
