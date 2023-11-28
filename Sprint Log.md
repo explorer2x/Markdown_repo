@@ -11,13 +11,15 @@
     * [11/17/2023 - 11/21/2023] Allsaver re-write
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
+- [11/28/2023] catch up with SDU team on ENROLLMENT task
 
 
 ## Rain:
 
-- [] AAD Observation
+- [11/23/2023 - DONE] AAD Observation
 - [] AAD maintain daily report
-- [] 
+- [11/27/2023 - DONE] M3 & HWS Observation
+- [11/28/2023] prepare monthly meetin sharing
 
 ### Rain pending
 - AAD prepare a document for error collection, before Dec.
@@ -28,23 +30,36 @@
 ## Chloe:
 
 - ABD WorkReport Compare Downloaded Report
-    * [] SIT pending issue: compare & log
+    * [11/27/2023 - DONE] SIT pending issue: compare & log
+    * [] download last term doc & upload
     * [] UAT
 
 - Billing Audit
     * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
 
+- OPEX project
+    * [11/23/2023 - 11/27/2023] fix email report issue
+    * 
+
+- ABD saving issue
+    * [11/28/2023] talk to team to validate saving #
+
+- KIA DDD
+    * [11/28/2023] fix plymouth DDD error
+
 
 ## June:
 
 - ABD WorkReport (UiPath)
-    * [11/13/2023 - 11/21/2023] upload to dev to test, then UAT, update MFA config
+    * [11/13/2023 - 11/21/2023 - DONE] upload to dev to test, then UAT, update MFA config
+    * [11/28/2023] ABD prepare release meeting
 
 - Billing Audit
     * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
 
-- [] ONED run performance report and get AHT&ACC for each EE, summarize team performace
+- [11/27/2023 - DONE] ONED run performance report and get AHT&ACC for each EE, summarize team performace
 - [] DDD maintain liberty & DDIB
+- locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
 
 
 
