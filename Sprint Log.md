@@ -11,7 +11,7 @@
     * [11/17/2023 - 11/21/2023] Allsaver re-write
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
-- [11/28/2023] catch up with SDU team on ENROLLMENT task
+- [11/28/2023 - DONE] catch up with SDU team on ENROLLMENT task
 
 
 ## Rain:
@@ -19,9 +19,13 @@
 - [11/23/2023 - DONE] AAD Observation
 - [] AAD maintain daily report
 - [11/27/2023 - DONE] M3 & HWS Observation
-- [11/28/2023] prepare monthly meetin sharing
+- [11/28/2023 - 1/29/2023] prepare monthly meeting sharing
+- [11/29/2023] M3 downloading maintain
 
 ### Rain pending
+- HWS re-write EPIC web automation - DB statement entry
+- M3 Generate proposal flat renew
+- AAD claim VC program
 - AAD prepare a document for error collection, before Dec.
 - [] a universal tool to modify asset in Orch
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
@@ -35,17 +39,16 @@
     * [] UAT
 
 - Billing Audit
-    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+    * [11/29/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna
 
 - OPEX project
-    * [11/23/2023 - 11/27/2023] fix email report issue
-    * 
+    * [11/23/2023 - 11/28/2023] fix email report issue
 
 - ABD saving issue
     * [11/28/2023] talk to team to validate saving #
 
 - KIA DDD
-    * [11/28/2023] fix plymouth DDD error
+    * [11/28/2023 - DONE] fix plymouth DDD error
 
 
 ## June:
@@ -55,7 +58,7 @@
     * [11/28/2023] ABD prepare release meeting
 
 - Billing Audit
-    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC)
+    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
 
 - [11/27/2023 - DONE] ONED run performance report and get AHT&ACC for each EE, summarize team performace
 - [] DDD maintain liberty & DDIB
