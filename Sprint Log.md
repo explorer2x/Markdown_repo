@@ -12,6 +12,8 @@
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
 - [11/28/2023 - DONE] catch up with SDU team on ENROLLMENT task
+- [11/28/2023 - 11/29/2023 - DONE] update macro for GDP new server issues
+- [11/29/2023 - DONE] meeting with Chloe Iris and Angel on OPEX 2024 project, send meeting request to OPEX.
 
 
 ## Rain:
@@ -19,8 +21,10 @@
 - [11/23/2023 - DONE] AAD Observation
 - [] AAD maintain daily report
 - [11/27/2023 - DONE] M3 & HWS Observation
-- [11/28/2023 - 1/29/2023] prepare monthly meeting sharing
-- [11/29/2023] M3 downloading maintain
+- [11/28/2023 - 11/30/2023 - DONE] prepare monthly meeting sharing
+- [11/29/2023 - 11/30/2023] M3 downloading maintain
+- [11/29/2023 - DONE] HWS maintain Macro
+- [11/30/2023 - DONE] HWS maintain policy checking list Macro
 
 ### Rain pending
 - HWS re-write EPIC web automation - DB statement entry
@@ -40,12 +44,13 @@
 
 - Billing Audit
     * [11/29/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna
+    * [11/30/2023] update config and macro code to fit new team and Cigna
 
 - OPEX project
     * [11/23/2023 - 11/28/2023] fix email report issue
 
 - ABD saving issue
-    * [11/28/2023] talk to team to validate saving #
+    * [] talk to team to validate saving #
 
 - KIA DDD
     * [11/28/2023 - DONE] fix plymouth DDD error
@@ -55,7 +60,8 @@
 
 - ABD WorkReport (UiPath)
     * [11/13/2023 - 11/21/2023 - DONE] upload to dev to test, then UAT, update MFA config
-    * [11/28/2023] ABD prepare release meeting
+    * [11/28/2023 - 11/29/2023 - DONE] ABD release meeting, fix bug
+    * [11/30/2023] create asset in production and test new group name
 
 - Billing Audit
     * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
