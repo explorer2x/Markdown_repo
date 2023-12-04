@@ -8,7 +8,9 @@
 - Maintain JS
     * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
-    * [11/17/2023 - 11/21/2023] Allsaver re-write
+    * [11/17/2023 - 12/1/2023] Allsaver re-write
+    * [12/4/2023] Allsaver UAT
+
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
 - [11/28/2023 - DONE] catch up with SDU team on ENROLLMENT task
@@ -22,7 +24,7 @@
 - [] AAD maintain daily report
 - [11/27/2023 - DONE] M3 & HWS Observation
 - [11/28/2023 - 11/30/2023 - DONE] prepare monthly meeting sharing
-- [11/29/2023 - 11/30/2023] M3 downloading maintain
+- [11/29/2023 - 12/4/2023] M3 downloading maintain
 - [11/29/2023 - DONE] HWS maintain Macro
 - [11/30/2023 - DONE] HWS maintain policy checking list Macro
 
@@ -42,9 +44,10 @@
     * [] download last term doc & upload
     * [] UAT
 
-- Billing Audit
-    * [11/29/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna
-    * [11/30/2023] update config and macro code to fit new team and Cigna
+- Billing Audit (new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna)
+    * [11/30/2023 - DONE] update macro code to fit new team and Cigna
+    * [11/30/2023 - DONE] add config and macro for Kaiser
+    * [12/01/2023] SIT 
 
 - OPEX project
     * [11/23/2023 - 11/28/2023] fix email report issue
@@ -55,20 +58,23 @@
 - KIA DDD
     * [11/28/2023 - DONE] fix plymouth DDD error
 
+- [11/30/2023 - DONE] THH weekly report update
 
 ## June:
 
 - ABD WorkReport (UiPath)
     * [11/13/2023 - 11/21/2023 - DONE] upload to dev to test, then UAT, update MFA config
     * [11/28/2023 - 11/29/2023 - DONE] ABD release meeting, fix bug
-    * [11/30/2023] create asset in production and test new group name
+    * [11/30/2023 - 12/1/2023 - DONE] create asset in production and test new group name
+    * 
 
 - Billing Audit
-    * [] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
+    * [12/4/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
+
 
 - [11/27/2023 - DONE] ONED run performance report and get AHT&ACC for each EE, summarize team performace
 - [] DDD maintain liberty & DDIB
-- locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
+- [12/1/2023 - DONE] locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
 
 
 
