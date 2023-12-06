@@ -1,14 +1,86 @@
+# Sprint 94
+---
+## Mason:
+
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+    * [11/17/2023 - 12/1/2023 - DONE] Allsaver re-write
+    * [12/4/2023] Allsaver UAT
+
+- [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
+- [12/07/2023] meeting with OPEX to validate the detailed needs.
+
+- [11/14/2023 - 11/17/2023] GDP Shortclaim develop
+
+
+## Rain:
+
+- [12/06/2023] AAD maintain daily report
+- [11/29/2023 - 12/5/2023 - DONE] M3 downloading maintain
+
+
+### Rain pending
+- HWS re-write EPIC web automation - DB statement entry
+- M3 Generate proposal flat renew
+- AAD claim VC program
+- AAD prepare a document for error collection, before Dec.
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
+
+
+## Chloe:
+
+- ABD WorkReport Compare Downloaded Report
+    * [11/27/2023 - DONE] SIT pending issue: compare & log
+    * [] download last term doc & upload
+    * [] UAT
+    * [12/06/2023] code review on audit
+
+- Billing Audit (new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna)
+    * [12/01/2023] SIT 
+    * [12/06/2023] modify code for 4 new carrier
+
+- OPEX project
+    * [11/23/2023 - 11/28/2023] fix email report issue
+    * [] audit result error
+    * [12/05/2023] test if running in local can fix issue
+    * [] test if increase RAM could fix the issue
+    * [] revise code if no other approach could fix the issue
+
+- ABD saving issue
+    * [] talk to team to validate saving #
+
+
+## June:
+
+- ABD WorkReport (UiPath)
+    * [] remove dup
+    * [] filetodecs by group
+    * [] update group list
+    * [] upload to Azure blob
+
+- Billing Audit
+    * [12/4/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
+    * [] modify code for 4 new carrier
+    * [12/05/2023 - 12/06/2023] update config and code for EN-V 
+
+- [] DDD maintain liberty & DDIB
+
+- [] performance report update
+
 # Sprint 93
 ---
 ## Mason:
 
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
-- [10/25/2023 - 10/26/2023] debug on THH CNA "Failed to establish connection to file storage server"
+- [10/25/2023 - 10/26/2023 - DONE] debug on THH CNA "Failed to establish connection to file storage server"
 - [] validate saving data with GDP team on Sept data
 - Maintain JS
     * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
-    * [11/17/2023 - 12/1/2023] Allsaver re-write
+    * [11/17/2023 - 12/1/2023 - DONE] Allsaver re-write
     * [12/4/2023] Allsaver UAT
 
 - [11/14/2023 - 11/17/2023] GDP Shockclaim develop
@@ -24,7 +96,7 @@
 - [] AAD maintain daily report
 - [11/27/2023 - DONE] M3 & HWS Observation
 - [11/28/2023 - 11/30/2023 - DONE] prepare monthly meeting sharing
-- [11/29/2023 - 12/4/2023] M3 downloading maintain
+- [11/29/2023 - 12/5/2023] M3 downloading maintain
 - [11/29/2023 - DONE] HWS maintain Macro
 - [11/30/2023 - DONE] HWS maintain policy checking list Macro
 
@@ -73,6 +145,7 @@
 
 
 - [11/27/2023 - DONE] ONED run performance report and get AHT&ACC for each EE, summarize team performace
+
 - [] DDD maintain liberty & DDIB
 - [12/1/2023 - DONE] locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
 
