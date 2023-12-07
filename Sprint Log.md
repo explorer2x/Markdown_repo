@@ -10,9 +10,11 @@
     * [12/4/2023] Allsaver UAT
 
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
-- [12/07/2023] meeting with OPEX to validate the detailed needs.
 
-- [11/14/2023 - 11/17/2023] GDP Shortclaim develop
+- [12/07/2023] meeting with OPEX to validate the detailed needs.
+- [12/07/2023] meeting with Norman on EBCOE workflow
+
+- [11/14/2023 - 11/17/2023, 12/06/2023] GDP Shortclaim develop
 
 
 ## Rain:
@@ -36,18 +38,21 @@
     * [11/27/2023 - DONE] SIT pending issue: compare & log
     * [] download last term doc & upload
     * [] UAT
-    * [12/06/2023] code review on audit
+    * [12/06/2023 - DONE] code review on audit
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna)
     * [12/01/2023] SIT 
     * [12/06/2023] modify code for 4 new carrier
+    * [12/06/2023] modify code for "-"
 
 - OPEX project
     * [11/23/2023 - 11/28/2023] fix email report issue
     * [] audit result error
-    * [12/05/2023] test if running in local can fix issue
-    * [] test if increase RAM could fix the issue
+    * [] rename NH file issue found on 1207
+    * [12/05/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
+    * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues. 
     * [] revise code if no other approach could fix the issue
+
 
 - ABD saving issue
     * [] talk to team to validate saving #
@@ -58,13 +63,13 @@
 - ABD WorkReport (UiPath)
     * [] remove dup
     * [] filetodecs by group
-    * [] update group list
+    * [12/07/2023] update group list
     * [] upload to Azure blob
 
 - Billing Audit
     * [12/4/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
     * [] modify code for 4 new carrier
-    * [12/05/2023 - 12/06/2023] update config and code for EN-V 
+    * [12/05/2023 - 12/07/2023] update config and code for EN-V 
 
 - [] DDD maintain liberty & DDIB
 
