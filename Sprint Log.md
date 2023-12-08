@@ -11,16 +11,17 @@
 
 - [11/22/2023] CREST ENWALL ACTIVITY JS & audit macro
 
-- [12/07/2023] meeting with OPEX to validate the detailed needs.
-- [12/07/2023] meeting with Norman on EBCOE workflow
+- [12/07/2023 - DONE] meeting with OPEX to validate the detailed needs.
+- [12/07/2023 - DONE] meeting with Norman on EBCOE workflow
+- [12/08/2023] meeting with Isaac on EBCOE workflow issues
 
 - [11/14/2023 - 11/17/2023, 12/06/2023] GDP Shortclaim develop
 
 
 ## Rain:
 
-- [12/06/2023] AAD maintain daily report
-- [11/29/2023 - 12/5/2023 - DONE] M3 downloading maintain
+- [12/06/2023 - 12/08/2023] AAD maintain daily report
+- [11/29/2023 - 12/05/2023 - DONE] M3 downloading maintain
 
 
 ### Rain pending
@@ -43,7 +44,7 @@
 - Billing Audit (new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna)
     * [12/01/2023] SIT 
     * [12/06/2023] modify code for 4 new carrier
-    * [12/06/2023] modify code for "-"
+    * [12/06/2023 - 12/08/2023] modify code for "-"
 
 - OPEX project
     * [11/23/2023 - 11/28/2023] fix email report issue
@@ -67,13 +68,13 @@
     * [] upload to Azure blob
 
 - Billing Audit
-    * [12/4/2023] new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Kaiser
-    * [] modify code for 4 new carrier
-    * [12/05/2023 - 12/07/2023] update config and code for EN-V 
+    * [12/4/2023 - 12/08/2023 - DONE] new carrier deploy: Kaiser & Cigna & Delta Dental
+    * [12/05/2023 - 12/07/2023 - DONE] update config and code for EN-V 
 
 - [] DDD maintain liberty & DDIB
-
 - [] performance report update
+- [12/08/2023] locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
+
 
 # Sprint 93
 ---
