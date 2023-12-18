@@ -16,16 +16,17 @@
 - [12/08/2023 - 12/11/2023 - DONE] meeting with Isaac on EBCOE workflow issues
 - [11/14/2023 - 11/17/2023, 12/06/2023] GDP Shortclaim develop
 
-- [12/12/2023 - 12/13/2023] document BRD with Rosa's requirement
-
-
-
+- [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
+- [12/15/2023 - DONE] task observation on GDP Catherine's requirement
+- [12/14/2023 - DONE] meeting with Norman on EBCOE workflow
+- [12/18/2023] update python code to generate report chart
+- [12/18/2023] meeting with angel and Chloe on OPEX coding update priority
 
 ## Rain:
 
-- [12/06/2023 - 12/13/2023] AAD maintain daily report
+- [12/06/2023 - 12/14/2023 - DONE] AAD maintain daily report
 - [11/29/2023 - 12/05/2023 - DONE] M3 downloading maintain
-- [12/13/2023] M3 Generate proposal flat renew
+- [12/14/2023 - 12/18/2023] M3 Generate proposal flat renew
 
 
 ### Rain pending
@@ -48,14 +49,15 @@
     * [12/01/2023] SIT 
     * [12/06/2023] modify code for 4 new carrier
     * [12/06/2023 - 12/08/2023] modify code for "-"
-    * [12/11/2023 - 12/12/2023]only plan name and info - add info into Medical & Dental plan for Carrier  & Ease (Address 3 = City + State + Zip)
+    * [12/11/2023 - 12/15/2023]only plan name and info - add info into Medical & Dental plan for Carrier  & Ease (Address 3 = City + State + Zip)
     * [12/11/2023 - DONE]Remove duplicate audit result and clear plan type on the kept row
+    * [12/14/2023 - DONE] revise code to remove symble except 0-9a-zA-Z.
 
 - OPEX project
     * [11/23/2023 - 11/28/2023] fix email report issue
     * [] audit result error
-    * [] rename NH file issue found on 1207
-    * [12/05/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
+    * [12/13/2023] rename NH file issue found on 1207
+    * [12/05/2023-12/13/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
     * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues. 
     * [] revise code if no other approach could fix the issue
 
@@ -71,19 +73,22 @@
     * [] filetodecs by group
     * [12/07/2023] update group list
     * [] upload to Azure blob
+    * [12/14/2023] debug missing compariation report
+    * [12/18/2023] remove button when download
 
 - Billing Audit
     * [12/4/2023 - 12/08/2023 - DONE] new carrier deploy: Kaiser & Cigna & Delta Dental
     * [12/05/2023 - 12/07/2023 - DONE] update config and code for EN-V
     * [12/11/2023 - DONE] HealthPartner update config, replace relation code, update vertical template
     * [12/11/2023 - DONE] Tier - replace 1,2,3 with tier before copy data
-    * New Function: Convert Full state into abbr. before audit
-    * update config on Carrier name to add "Vertical" to use vertical copy
-    * Team special requirement: do not audit Plan name - patric dental - !!!Solution pendin
+    * [12/15/2023 - DONE] New Function: Convert Full state into abbr. before audit
+    * [12/15/2023 - DONE] update config on Carrier name to add "Vertical" to use vertical copy
+    * [12/15/2023 - DONE] Team special requirement: do not audit Plan name - patric dental - !!!Solution pendin
 
-- [] DDD maintain liberty & DDIB
+- [12/14/2023 - 12/18/2023] DDD maintain liberty & DDIB
 - [] performance report update
 - [12/08/2023 - DONE] locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
+- 
 
 
 # Sprint 93
