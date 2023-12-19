@@ -1,3 +1,70 @@
+# Sprint 95
+---
+## Mason:
+
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+    * [12/4/2023] Allsaver UAT
+- [11/22/2023, 12/21/2023] CREST EN WALL ACTIVITY JS & audit macro
+- [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
+
+- [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
+- [12/19/2023] meeting with Angel and Chloe on OPEX coding update priority
+
+
+## Rain:
+
+- [11/29/2023 - 12/05/2023，12/19/2023] M3 downloading maintain
+- [12/14/2023 - 12/18/2023] M3 Generate proposal flat renew
+- [] HWS re-write EPIC web automation - DB statement entry
+
+
+### Rain pending
+- [] AAD claim VC program, low volume, postpone
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
+
+
+
+## Chloe:
+
+- ABD WorkReport Compare Downloaded Report
+    * [] UAT
+
+- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
+    * [] HealthPartner SIT
+
+- OPEX project
+    * [] audit result error
+    * [12/05/2023-12/13/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
+    * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues.
+    * [] revise code if no other approach could fix the issue
+
+
+- ABD saving issue
+    * [] talk to team to validate saving #
+
+
+
+## June:
+
+- ABD WorkReport (UiPath)
+    * [] remove dup
+    * [] filetodecs by group
+    * [] upload to Azure blob
+    * [12/19/2023] remove button when download
+    * [] get date text to validate if date input succeed
+
+- Billing Audit
+    * [] HealthPartner SIT 
+    
+- [] performance report update
+- [] locktonEB new requirement
+
+
+
 # Sprint 94
 ---
 ## Mason:
@@ -19,20 +86,20 @@
 - [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
 - [12/15/2023 - DONE] task observation on GDP Catherine's requirement
 - [12/14/2023 - DONE] meeting with Norman on EBCOE workflow
-- [12/18/2023] update python code to generate report chart
-- [12/18/2023] meeting with angel and Chloe on OPEX coding update priority
+- [12/18/2023 - DONE] update GDP code
+- [12/18/2023 - 12/19/2023 - DONE] update python code to generate report chart
 
 ## Rain:
 
 - [12/06/2023 - 12/14/2023 - DONE] AAD maintain daily report
-- [11/29/2023 - 12/05/2023 - DONE] M3 downloading maintain
+- [11/29/2023 - 12/05/2023，12/19/2023] M3 downloading maintain
 - [12/14/2023 - 12/18/2023] M3 Generate proposal flat renew
 
 
 ### Rain pending
-- HWS re-write EPIC web automation - DB statement entry
-- AAD claim VC program
-- AAD prepare a document for error collection, before Dec.
+- [] HWS re-write EPIC web automation - DB statement entry
+- [] AAD claim VC program
+- [] AAD prepare a document for error collection, before Dec.
 - [] a universal tool to modify asset in Orch
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
 
@@ -46,11 +113,11 @@
     * [12/06/2023 - DONE] code review on audit
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna (BCBS & UHC) - Cigna)
-    * [12/01/2023] SIT 
+    * [12/01/2023] SIT
     * [12/06/2023] modify code for 4 new carrier
     * [12/06/2023 - 12/08/2023] modify code for "-"
-    * [12/11/2023 - 12/15/2023]only plan name and info - add info into Medical & Dental plan for Carrier  & Ease (Address 3 = City + State + Zip)
-    * [12/11/2023 - DONE]Remove duplicate audit result and clear plan type on the kept row
+    * [12/11/2023 - 12/15/2023] only plan name and info - add info into Medical & Dental plan for Carrier  & Ease (Address 3 = City + State + Zip)
+    * [12/11/2023 - DONE] Remove duplicate audit result and clear plan type on the kept row
     * [12/14/2023 - DONE] revise code to remove symble except 0-9a-zA-Z.
 
 - OPEX project
@@ -58,7 +125,7 @@
     * [] audit result error
     * [12/13/2023] rename NH file issue found on 1207
     * [12/05/2023-12/13/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
-    * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues. 
+    * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues.
     * [] revise code if no other approach could fix the issue
 
 
@@ -85,10 +152,11 @@
     * [12/15/2023 - DONE] update config on Carrier name to add "Vertical" to use vertical copy
     * [12/15/2023 - DONE] Team special requirement: do not audit Plan name - patric dental - !!!Solution pendin
 
+
 - [12/14/2023 - 12/18/2023] DDD maintain liberty & DDIB
 - [] performance report update
 - [12/08/2023 - DONE] locktonEB new requirement: task assignment, track forcast# & actual# (total 50min/save5~6min)
-- 
+- [12/19/2023 -DONE] Crest login test
 
 
 # Sprint 93
