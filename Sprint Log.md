@@ -7,18 +7,21 @@
     * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
     * [] MOO - occupation
     * [12/4/2023] Allsaver UAT
-- [11/22/2023, 12/21/2023] CREST EN WALL ACTIVITY JS & audit macro
+
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
 
 - [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
 - [12/19/2023] meeting with Angel and Chloe on OPEX coding update priority
-
+- [12/20/2023 - DONE] meeting with Norman on EBCOE workflow and demo EN WALL js solution
+- [11/22/2023, 12/21/2023] CREST EN WALL ACTIVITY JS & audit macro
 
 ## Rain:
 
-- [11/29/2023 - 12/05/2023，12/19/2023] M3 downloading maintain
-- [12/14/2023 - 12/18/2023] M3 Generate proposal flat renew
+- [11/29/2023 - 12/05/2023，12/20/2023 - DONE] M3 downloading maintain
+- [12/14/2023 - 12/20/2023] M3 Generate proposal flat renew
 - [] HWS re-write EPIC web automation - DB statement entry
+- [12/20/2023] review Lib and update WIKI
+- [] solution team work SDD update and QA
 
 
 ### Rain pending
@@ -31,21 +34,20 @@
 ## Chloe:
 
 - ABD WorkReport Compare Downloaded Report
-    * [] UAT
-
-- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
-    * [] HealthPartner SIT
-
-- OPEX project
-    * [] audit result error
-    * [12/05/2023-12/13/2023] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
-    * [] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues.
-    * [] revise code if no other approach could fix the issue
-
+    * [12/21/2023] UAT
 
 - ABD saving issue
-    * [] talk to team to validate saving #
+    * [12/21/2023] talk to team to validate saving #
 
+- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
+    * [12/20/2023 - DONE] HealthPartner SIT
+
+
+- OPEX project
+    * [12/20/2023 - DONE] audit result error
+    * [12/05/2023-12/13/2023, 12/20/2023 - DONE] test if running in local can fix issue - modified the code to running and storing the files locally on the desktop, run the local version when the current P drive version encounter any email sending failure.
+    * [12/20/2023 - DONE] test if increase RAM could fix the issue - test on a high-performance device on our side, added code to switch the Outlook account between the NHBC account and our personal Outlook account, depending on the environment. conduct a test with the same auditing materials on our device as soon as Rosa reports any email issues.
+    * [12/20/2023 - DONE] change code to handle renaming error when have extra space in file name
 
 
 ## June:
@@ -54,14 +56,18 @@
     * [] remove dup
     * [] filetodecs by group
     * [] upload to Azure blob
-    * [12/19/2023] remove button when download
-    * [] get date text to validate if date input succeed
+    * [12/19/2023 - DONE] remove button when download
+    * [12/19/2023 - DONE] get date text to validate if date input succeed
+    * [12/21/2023] image click failed
+
 
 - Billing Audit
     * [] HealthPartner SIT 
-    
+    * [] SSN type dismatch error
+
+- [12/14/2023 - 12/20/2023] DDD maintain liberty & DDIB
 - [] performance report update
-- [] locktonEB new requirement
+- [12/20/2023 - DONE] locktonEB new requirement
 
 
 
