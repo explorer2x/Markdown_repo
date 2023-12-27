@@ -14,9 +14,12 @@
 - [12/19/2023 - DONE] meeting with Angel and Chloe on OPEX coding update priority
 - [12/20/2023 - DONE] meeting with Norman on EBCOE workflow and demo EN WALL js solution
 - [11/22/2023, 12/21/2023 - DONE] CREST EN WALL ACTIVITY JS & audit macro
+- [12/26/2023 - DONE] test and coding for EN API
+- [12/27/2023] call for meeting with ISAAC
 
 - OPEX Tina's issue
-    * [12/26/2023] debug the Macro logic.
+    * [12/26/2023 - DONE] debug the Macro logic.
+    * [12/27/2023] book meeting with Rosa Melody and Tina to explain the debugging method
     * [12/26/2023] try to modify the Macro to use a local folder as a temporary transfer station instead of opening/saving file in P drive directly
 
 
@@ -29,7 +32,7 @@
 - [12/20/2023] review Lib and update WIKI
 - [] solution team work SDD update and QA
 - [12/25/2023 - DONE] AAD 2 macro AND policy & claim set up manage workflow
-
+- [12/26/2023 - 12/27/2023] AAD report format
 
 ### Rain pending
 - [] AAD claim VC program, low volume, postpone
@@ -41,15 +44,16 @@
 ## Chloe:
 
 - ABD WorkReport Compare Downloaded Report
-    * [12/21/2023] UAT
-    * [12/25/2023] bug fix: the previous macro on column name/index
+    * [12/27/2023] UAT with team
+    * [12/25/2023 - DONE] bug fix: the previous macro on column name/index
 
 - ABD saving issue
-    * [12/21/2023] talk to team to validate saving #
+    * [12/21/2023 - DONE] talk to team to validate saving #
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
     * [12/20/2023 - DONE] HealthPartner SIT
     * [12/25/2023 - DONE] bug fix: remove dup answer & dup answer report discrepancy when log answer
+    * [12/26/2023 - DONE] Vlife validate error, update config and code
 
 
 - OPEX project
@@ -67,15 +71,14 @@
     * [] upload to Azure blob
     * [12/19/2023 - DONE] remove button when download
     * [12/19/2023 - DONE] get date text to validate if date input succeed
-    * [12/21/2023 - 12/26/2023] image click failed
-
+    * [12/21/2023 - 12/26/2023 - DONE] image click failed, change selector to URL, refine structure
 
 - Billing Audit
-    * [] HealthPartner SIT 
-    * [] SSN type dismatch error
+    * [12/25/2023 - DONE] HealthPartner SIT 
+    * [12/25/2023 - DONE] SSN type dismatch error
 
 - [12/14/2023 - 12/26/2023] DDD maintain liberty & DDIB
-- [] performance report update
+- [] ONED performance report update
 - [12/20/2023 - DONE] locktonEB new requirement
 
 
