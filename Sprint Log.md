@@ -16,7 +16,7 @@
 - [11/22/2023, 12/21/2023 - DONE] CREST EN WALL ACTIVITY JS & audit macro
 - [12/26/2023 - DONE] test and coding for EN API
 - [12/27/2023 - DONE] call for meeting with ISAAC
-
+- [1/2/2024 - DONE] GDP birthday report macro
 
 - OPEX Tina's issue
     * [12/26/2023 - DONE] debug the Macro logic.
@@ -79,10 +79,11 @@
     * [12/25/2023 - DONE] HealthPartner SIT 
     * [12/25/2023 - DONE] SSN type dismatch error
 
-- [12/14/2023 - 12/28/2023] DDD maintain liberty & DDIB
-- [] ONED performance report update
-- [12/20/2023 - DONE] locktonEB new requirement
-- [12/28/2023] ASA new requirement on template
+- [12/14/2023 - 01/02/2024 - DONE] DDD maintain liberty 
+- [] DDD maintain DDIB
+- [12/20/2023 - DONE] ONED performance report update
+- [01/03/2024] locktonEB new requirement
+- [12/28/2023 - 01/02/2024- DONE] ASA new requirement on template
 
 
 # Sprint 94
