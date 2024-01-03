@@ -1,3 +1,57 @@
+# Sprint 96
+---
+## Mason:
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+    * [12/4/2023] Allsaver UAT
+
+- [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
+- [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
+
+- [] performance review form
+
+- OPEX Tina's issue
+    * [12/26/2023 - DONE] debug the Macro logic.
+    * [12/28/2023] book meeting with Rosa Melody and Tina to explain the debugging method
+    * [12/26/2023] try to modify the Macro to use a local folder as a temporary transfer station instead of opening/saving file in P drive directly
+
+## Rain:
+
+- [12/14/2023 - 12/20/2023] M3 Generate proposal flat renew
+- [] New AAD report format
+- [] performance review form
+
+### Rain pending
+- [] AAD claim VC program, low volume, postpone
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
+- [] HWS re-write EPIC web automation - DB statement entry
+
+## Chloe:
+- OPEX issue
+    * [] SDD audit tool
+    * [] re-write TLreport function
+    * [] add new functions per Rosa's needs
+
+- ABD WorkReport Compare Downloaded Report
+    * [] handle UAT issue
+
+- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
+    * [] UAT with Henry's requirement on Merge data
+
+- [] Merchants DDD maintain
+
+## June:
+- [] DDD maintain DDIB
+- [01/03/2024] locktonEB new requirement
+- Billing Audit new carrier (BCBS UHC)
+
+
+
+
+
 # Sprint 95
 ---
 ## Mason:
@@ -29,9 +83,8 @@
 
 - [11/29/2023 - 12/05/2023，12/20/2023 - DONE] M3 downloading maintain
 - [12/14/2023 - 12/20/2023] M3 Generate proposal flat renew
-- [] HWS re-write EPIC web automation - DB statement entry
-- [12/20/2023] review Lib and update WIKI
-- [] solution team work SDD update and QA
+- [12/20/2023 - DONE] review Lib and update WIKI
+- [12/20/2023 - DONE] solution team work SDD update and QA
 - [12/25/2023 - DONE] AAD 2 macro AND policy & claim set up manage workflow
 - [12/26/2023 - 12/28/2023 - DONE] AAD report format
 
