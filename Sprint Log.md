@@ -1,5 +1,6 @@
 # Sprint 96
 ---
+
 ## Mason:
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - Maintain JS
@@ -10,17 +11,18 @@
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
 - [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
 
-- [] performance review form
+- [01/04/2023] performance review form
 
 - OPEX Tina's issue
     * [12/26/2023 - DONE] debug the Macro logic.
-    * [12/28/2023] book meeting with Rosa Melody and Tina to explain the debugging method
+    * [01/04/2023]] meeting with Rosa Melody and Tina to explain the debugging method
     * [12/26/2023] try to modify the Macro to use a local folder as a temporary transfer station instead of opening/saving file in P drive directly
+
 
 ## Rain:
 
 - [12/14/2023 - 12/20/2023] M3 Generate proposal flat renew
-- [] New AAD report format
+- [01/03/2024 - 01/04/2024] New AAD report format
 - [] performance review form
 
 ### Rain pending
@@ -29,9 +31,11 @@
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
 - [] HWS re-write EPIC web automation - DB statement entry
 
+
+
 ## Chloe:
 - OPEX issue
-    * [] SDD audit tool
+    * [01/04/2024] SDD audit tool
     * [] re-write TLreport function
     * [] add new functions per Rosa's needs
 
@@ -41,11 +45,14 @@
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
     * [] UAT with Henry's requirement on Merge data
 
-- [] Merchants DDD maintain
+- [01/04/2024] Merchants DDD maintain
+
 
 ## June:
+
+- [01/04/2024] DDD maintain Liberty
 - [] DDD maintain DDIB
-- [01/03/2024] locktonEB new requirement
+- [01/04/2024] locktonEB new requirement
 - Billing Audit new carrier (BCBS UHC)
 
 
