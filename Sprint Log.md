@@ -8,23 +8,25 @@
     * [] MOO - occupation
     * [12/4/2023 - DONE] Allsaver
 
-- [01/04/2023 - 01/05/2023 - DONE] GDP JS - Hartford, UHC cobra, TASC
-
+- [01/04/2023 - 01/08/2023 - DONE] GDP JS - Hartford, UHC cobra, TASC
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
-
 - [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
-
 - [01/04/2023 - DONE] performance review form
 
 - OPEX Tina's issue
-    * [12/26/2023 - DONE] debug the Macro logic.
+    * [12/26/2023 - DONE] debug the Macro logic
     * [01/04/2023 - DONE] meeting with Rosa Melody and Tina to explain the debugging method
     * [01/04/2023 - 01/05/2023 - DONE] try to modify the Macro to use a local folder as a temporary transfer station instead of opening/saving file in P drive directly
+    * [01/08/2023 - DONE] UAT with Rosa on audit function
+
+- OPEX email function redesign
+    [01/09/2023]
+
 
 
 ## Rain:
 
-- [12/14/2023 - 12/20/2023, 01/08/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/10/2024] M3 Generate proposal flat renew
 - [01/03/2024 - 01/04/2024 - DONE] New AAD report format
 - [01/05/2024 - DONE] performance review form
 
@@ -39,7 +41,7 @@
 ## Chloe:
 - OPEX issue
     * [01/04/2024] SDD audit tool
-    * [] re-write TLreport function
+    * [01/09/2024 - 01/10/2024] re-write TLreport function
     * [01/05/2024] design TLreport function workflow
     * [] add new functions per Rosa's needs
 
@@ -49,22 +51,25 @@
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
     * [] UAT with Henry's requirement on Merge data
 
-- [01/04/2024 - DONE] Merchants DDD maintain
-
-- [01/05/2024] performance review form
+- [01/04/2024 - 01/08/2024 - DONE] Merchants DDD maintain
+- [01/05/2024 - 01/08/2024 - DONE] performance review form
 
 ## June:
 
 - [01/04/2024 - DONE] DDD maintain Liberty
-- [] DDD maintain DDIB
+- [01/10/2024] DDD maintain DDIB
 - [01/04/2024, 01/05/2024 - DONE] locktonEB new requirement, add function according to team's new requirement, release to team
-- Billing Audit new carrier (BCBS UHC)
+
+- Billing Audit 
+    * new carrier (BCBS UHC)
+    * [01/09/2024] issue fix: plan name matching, update config
+    * [01/09/2024] issue fix: blank column filling error
 
 - ABD WorkReport (UiPath)
     * [] remove dup
     * [] filetodecs by group
     * [] upload to Azure blob
-    * [01/05/2024 - 01/08/2024] missing document due to error
+    * [01/05/2024 - 01/08/2024 - DONE] missing document due to error，  wrongly pick date
 
 
 
