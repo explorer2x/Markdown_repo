@@ -19,14 +19,14 @@
     * [01/04/2023 - 01/05/2023 - DONE] try to modify the Macro to use a local folder as a temporary transfer station instead of opening/saving file in P drive directly
     * [01/08/2023 - DONE] UAT with Rosa on audit function
 
-- OPEX email function redesign
-    [01/09/2023]
+- OPEX audit function redesign
+    [01/09/2023 - 01/12/2023]
 
 
 
 ## Rain:
 
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/10/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/12/2024] M3 Generate proposal flat renew
 - [01/03/2024 - 01/04/2024 - DONE] New AAD report format
 - [01/05/2024 - DONE] performance review form
 
@@ -49,6 +49,7 @@
     * [] handle UAT issue
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
+    * [01/11/2024] code review on Merge data section
     * [] UAT with Henry's requirement on Merge data
 
 - [01/04/2024 - 01/08/2024 - DONE] Merchants DDD maintain
@@ -57,19 +58,22 @@
 ## June:
 
 - [01/04/2024 - DONE] DDD maintain Liberty
-- [01/10/2024] DDD maintain DDIB
+- [01/10/2024 - 01/12/2024] DDD maintain ENCOMPASS in DDIB
+    * [01/11/2024] SIT 
 - [01/04/2024, 01/05/2024 - DONE] locktonEB new requirement, add function according to team's new requirement, release to team
+- [] remove automation file due to RIA Cancel 
 
 - Billing Audit 
-    * new carrier (BCBS UHC)
-    * [01/09/2024] issue fix: plan name matching, update config
-    * [01/09/2024] issue fix: blank column filling error
+    * [01/11/2024] new carrier (BCBS UHC)
+    * [01/09/2024 - DONE] issue fix: plan name matching, update config
+    * [01/09/2024 - DONE] issue fix: blank column filling error
+    * [01/12/2024] update code per feed back
 
 - ABD WorkReport (UiPath)
     * [] remove dup
     * [] filetodecs by group
     * [] upload to Azure blob
-    * [01/05/2024 - 01/08/2024 - DONE] missing document due to error，  wrongly pick date
+    * [01/05/2024 - 01/12/2024] missing document due to error, wrongly pick date
 
 
 
