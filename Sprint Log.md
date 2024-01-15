@@ -20,13 +20,13 @@
     * [01/08/2023 - DONE] UAT with Rosa on audit function
 
 - OPEX audit function redesign
-    [01/09/2023 - 01/12/2023]
+    [01/09/2023 - 01/15/2023]
 
 
 
 ## Rain:
 
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/12/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/15/2024] M3 Generate proposal flat renew
 - [01/03/2024 - 01/04/2024 - DONE] New AAD report format
 - [01/05/2024 - DONE] performance review form
 
@@ -75,7 +75,7 @@
     * [] upload to Azure blob
     * [01/05/2024 - 01/12/2024] missing document due to error, wrongly pick date
 
-
+- [] confirm saving with team 
 
 # Sprint 95
 ---
