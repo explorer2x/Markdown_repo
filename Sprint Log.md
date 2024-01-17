@@ -1,3 +1,78 @@
+# Sprint 97
+---
+
+## Mason:
+
+- [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
+
+- OPEX audit function redesign
+    [01/09/2024 - 01/30/2024]
+
+
+- [01/16/2024 - DONE] GDP update ddd code to run every month on 2nd & 16th 
+
+# Mason Pending
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+    * [12/4/2023 - DONE] Allsaver
+
+- [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
+
+
+## Rain:
+
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/17/2024] M3 Generate proposal flat renew
+- [01/16/2024 - DONE] AAD task observation: AAD online Daily report & AAD DAS new request
+- [01/17/2024] HWS task assignment maintain
+- [] AAD online Daily report
+- [] AAD DAS new request
+
+### Rain pending
+- [] AAD claim VC program, low volume, postpone
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
+- [] HWS re-write EPIC web automation - DB statement entry
+
+
+
+## Chloe:
+- OPEX issue
+    * [01/05/2024] design TLreport function workflow 
+    * [01/09/2024 - 01/17/2024] re-write TLreport function and SIT
+    * [01/17/2024] design Trainee report function workflow
+    * [] add new functions per Rosa's needs
+
+- ABD WorkReport Compare Downloaded Report
+    * [] macro error when running in SDU UAT
+
+- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
+    * [01/11/2024] code review on Merge data section
+    * [] UAT with Henry's requirement on Merge data
+
+- [] Merchants DDD login error
+
+
+
+## June:
+
+- [01/10/2024 - 01/12/2024] DDD maintain ENCOMPASS in DDIB
+    * [01/11/2024] SIT 
+
+- Billing Audit 
+    * [] new carrier (BCBS UHC)
+    * [01/12/2024] update code per feed back, need SIT
+
+- ABD WorkReport (UiPath)
+    * [] remove dup
+    * [] filetodecs by group
+    * [] upload to Azure blob
+    * [01/05/2024 - 01/12/2024] missing document due to error, wrongly pick date
+    * [] handle email verification auto-fwd in SDU outlook
+
+
+
 # Sprint 96
 ---
 
@@ -20,13 +95,14 @@
     * [01/08/2023 - DONE] UAT with Rosa on audit function
 
 - OPEX audit function redesign
-    [01/09/2023 - 01/15/2023]
+    [01/09/2024 - 01/15/2024]
 
+- [01/16/2024] GDP update ddd code to run every month on 2nd & 16th 
 
 
 ## Rain:
 
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/15/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/16/2024] M3 Generate proposal flat renew
 - [01/03/2024 - 01/04/2024 - DONE] New AAD report format
 - [01/05/2024 - DONE] performance review form
 
@@ -76,6 +152,7 @@
     * [01/05/2024 - 01/12/2024] missing document due to error, wrongly pick date
 
 - [] confirm saving with team 
+
 
 # Sprint 95
 ---
