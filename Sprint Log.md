@@ -8,6 +8,12 @@
 - OPEX audit function redesign
     [01/09/2024 - 01/30/2024]
 
+- EBCOE project
+    * [01/18/2024]review project Tech enable workflow Master sheet
+    * [] work on coding per project plan 
+
+- GA website printing
+    * [01/19/2024] python function assessment on getting urls and print to PDF
 
 - [01/16/2024 - DONE] GDP update ddd code to run every month on 2nd & 16th 
 
@@ -23,11 +29,12 @@
 
 ## Rain:
 
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/17/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024] M3 Generate proposal flat renew
 - [01/16/2024 - DONE] AAD task observation: AAD online Daily report & AAD DAS new request
-- [01/17/2024] HWS task assignment maintain
+- [01/17/2024 - DONE] HWS task assignment maintain
 - [] AAD online Daily report
-- [] AAD DAS new request
+- [01/18/2024 - DONE] AAD DAS new request
+
 
 ### Rain pending
 - [] AAD claim VC program, low volume, postpone
@@ -40,12 +47,14 @@
 ## Chloe:
 - OPEX issue
     * [01/05/2024] design TLreport function workflow 
-    * [01/09/2024 - 01/17/2024] re-write TLreport function and SIT
-    * [01/17/2024] design Trainee report function workflow
+    * [01/09/2024 - 01/18/2024 - DONE] re-write TLreport function and SIT
+    * [01/17/2024 - 01/18/2024 - DONE] design Trainee report function workflow
+    * [01/19/2024] re-write Trainee report function and SIT
     * [] add new functions per Rosa's needs
 
 - ABD WorkReport Compare Downloaded Report
     * [] macro error when running in SDU UAT
+    * [] debug and update to UIPATH
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner )
     * [01/11/2024] code review on Merge data section
