@@ -9,8 +9,8 @@
     [01/09/2024 - 01/30/2024]
 
 - EBCOE project
-    * [01/18/2024]review project Tech enable workflow Master sheet
-    * [] work on coding per project plan 
+    * [01/18/2024 - DONE] review project Tech enable workflow Master sheet
+    * [01/22/2024 - 01/23/2024] assess the tech solution on JS and PAD to extract EE wall page
 
 - GA website printing
     * [01/19/2024 - DONE] python function assessment on getting urls and print to PDF
@@ -32,10 +32,10 @@
 - [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024] M3 Generate proposal flat renew
 - [01/16/2024 - DONE] AAD task observation: AAD online Daily report & AAD DAS new request
 - [01/17/2024 - DONE] HWS task assignment 
-- [01/22/2024] HWS policy checking task maintain
-- [] AAD online Daily report
+- [01/22/2024 - DONE] HWS policy checking task maintain
+- [01/22/2024 - 01/23/2024] AAD online Daily report
 - [01/18/2024 - DONE] AAD DAS new request
-
+- [01/23/2024] AAD DAS new request
 
 ### Rain pending
 - [] AAD claim VC program, low volume, postpone
@@ -51,7 +51,7 @@
     * [01/09/2024 - 01/18/2024 - DONE] re-write TLreport function and SIT
     * [01/17/2024 - 01/18/2024 - DONE] design Trainee report function workflow
     * [01/19/2024 - DONE] re-write Trainee report function and SIT
-    * [01/22/2024] add move file from c to p drive
+    * [01/22/2024 - DONE] add move file from c to p drive
     * [] add new functions per Rosa's needs
 
 - ABD WorkReport Compare Downloaded Report
