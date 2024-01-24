@@ -10,7 +10,7 @@
 
 - EBCOE project
     * [01/18/2024 - DONE] review project Tech enable workflow Master sheet
-    * [01/22/2024 - 01/23/2024] assess the tech solution on JS and PAD to extract EE wall page
+    * [01/22/2024 - 01/24/2024] assess the tech solution on JS and PAD to extract EE wall page
 
 - GA website printing
     * [01/19/2024 - DONE] python function assessment on getting urls and print to PDF
@@ -28,16 +28,17 @@
 
 
 # Rain:
-
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024] M3 Generate proposal flat renew
 - [01/16/2024 - DONE] AAD task observation: AAD online Daily report & AAD DAS new request
 - [01/17/2024 - DONE] HWS task assignment 
 - [01/22/2024 - DONE] HWS policy checking task maintain
-- [01/22/2024 - 01/23/2024] AAD online Daily report
-- [01/18/2024 - DONE] AAD DAS new request
-- [01/23/2024] AAD DAS new request
+- [01/22/2024 - 01/23/2024 - DONE] AAD online Daily report
+- [01/18/2024 - DONE] AAD DAS new request: pull  number and format data from online form, sync to online form in afternoon
+- [01/24/2024] AAD DAS new request:pull previuos day data from online form
+- [01/23/2024 - DONE] HWS task observation Update EPIC per policy
+
 
 ### Rain pending
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024] M3 Generate proposal flat renew
 - [] AAD claim VC program, low volume, postpone
 - [] a universal tool to modify asset in Orch
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
