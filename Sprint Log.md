@@ -10,8 +10,12 @@
 
 - EBCOE project
     * [01/18/2024 - DONE] review project Tech enable workflow Master sheet
-    * [01/22/2024 - 01/25/2024] assess the tech solution on JS and PAD to extract EE wall page
-
+    * [01/22/2024 - 01/25/2024 - DONE] assess the tech solution on JS and PAD to extract EE wall page
+    * [01/25/2024 - DONE] dev JS code to extract wall info into JSON string and insert in webpage with new element
+    * [01/25/2024 - DONE] dev PAD worflow to convert JSON to csv file and save to given folder
+    * [01/26/2024] dev PAD python code to convert JSON to csv file and save to given folder
+    * [01/26/2024] dev PAD worflow to extract JS code from outside source and insert into PAD variable
+    
 - GA website printing
     * [01/19/2024 - DONE] python function assessment on getting urls and print to PDF
 
@@ -28,7 +32,7 @@
 
 
 # Rain:
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024] M3 Generate proposal flat renew
 - [01/16/2024 - DONE] AAD task observation: AAD online Daily report & AAD DAS new request
 - [01/17/2024 - DONE] HWS task assignment 
 - [01/22/2024 - DONE] HWS policy checking task maintain
@@ -36,7 +40,6 @@
 - [01/18/2024 - DONE] AAD DAS new request: pull  number and format data from online form, sync to online form in afternoon
 - [01/24/2024 - DONE] AAD DAS new request:pull previuos day data from online form
 - [01/23/2024 - DONE] HWS task observation Update EPIC per policy
-
 
 ### Rain pending
 - [] HWS Policy Checking
@@ -54,6 +57,7 @@
     * [01/17/2024 - 01/18/2024 - DONE] design Trainee report function workflow
     * [01/19/2024 - DONE] re-write Trainee report function and SIT
     * [01/22/2024 - DONE] add move file from c to p drive
+    * [01/22/2024 - 01/25/2024 - DONE] fix bugs Rosa notified
     * [] add new functions per Rosa's needs
 
 - ABD WorkReport Compare Downloaded Report
@@ -62,10 +66,7 @@
 
 - Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner)
     * [01/11/2024] code review on Merge data section
-    * [] UAT with Henry's requirement on Merge data
-
-- [] Merchants DDD login error
-
+    * [01/25/2024] UAT with Henry's requirement on Merge data
 
 
 ## June:
