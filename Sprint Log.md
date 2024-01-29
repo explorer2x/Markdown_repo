@@ -14,8 +14,9 @@
     * [01/25/2024 - DONE] dev JS code to extract wall info into JSON string and insert in webpage with new element
     * [01/25/2024 - DONE] dev PAD worflow to convert JSON to csv file and save to given folder
     * [01/26/2024] dev PAD python code to convert JSON to csv file and save to given folder
-    * [01/26/2024] dev PAD worflow to extract JS code from outside source and insert into PAD variable
-    
+    * [01/26/2024 - DONE] dev PAD worflow to extract JS code from outside source and insert into PAD variable
+
+
 - GA website printing
     * [01/19/2024 - DONE] python function assessment on getting urls and print to PDF
 
@@ -40,9 +41,10 @@
 - [01/18/2024 - DONE] AAD DAS new request: pull  number and format data from online form, sync to online form in afternoon
 - [01/24/2024 - DONE] AAD DAS new request:pull previuos day data from online form
 - [01/23/2024 - DONE] HWS task observation Update EPIC per policy
+- [01/29/2024] HWS Policy Checking
 
 ### Rain pending
-- [] HWS Policy Checking
+
 - [] AAD claim VC program, low volume, postpone
 - [] a universal tool to modify asset in Orch
 - [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA  
@@ -58,7 +60,8 @@
     * [01/19/2024 - DONE] re-write Trainee report function and SIT
     * [01/22/2024 - DONE] add move file from c to p drive
     * [01/22/2024 - 01/25/2024 - DONE] fix bugs Rosa notified
-    * [] add new functions per Rosa's needs
+    * [01/26/2024 - 01/29/2024] add new functions per Rosa's needs: add Trainer Tab chart
+    * [] 
 
 - ABD WorkReport Compare Downloaded Report
     * [] macro error when running in SDU UAT
