@@ -1,3 +1,55 @@
+# Sprint 98
+---
+
+## Mason:
+
+- [12/12/2023 - 12/15/2023] document BRD with Rosa's requirement
+- OPEX audit function redesign
+    [01/09/2024 - 01/30/2024]
+
+- EBCOE project
+    []
+
+
+# Mason Pending
+- [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
+- Maintain JS
+    * [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    * [] MOO - occupation
+
+- [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
+
+
+# Rain:
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024] M3 Generate proposal flat renew
+- [01/29/2024] HWS Policy Checking
+
+
+## Rain pending
+
+- [] AAD claim VC program, low volume, postpone
+- [] a universal tool to modify asset in Orch
+- [] HWS DB STATEMENT USE PDF2EXCEL LIB TO CONVERT NEW DB TEMPLATE/DEV PDF2EPIC WITH VBA
+- [] HWS re-write EPIC web automation - DB statement entry
+
+# Chloe:
+- OPEX issue
+    * [01/30/2024 - DONE] # of task on EB tasks
+    * [01/30/2024] split ", or" in answer
+    * [01/31/2024 - 02/02/2024] highlight
+    * [02/05/2024 - 02/07/2024] audit racking log & peer review
+    * [] exclude file name
+
+- ABD WorkReport Compare Downloaded Report
+    * [] macro error when running in SDU UAT
+    * [] debug and update to UIPATH
+
+- Billing Audit (new carrier deploy: Kaiser & Cigna & HealthPartner)
+    * [01/11/2024] code review on Merge data section
+    * [01/25/2024] UAT with Henry's requirement on Merge data
+
+
+
 # Sprint 97
 ---
 
