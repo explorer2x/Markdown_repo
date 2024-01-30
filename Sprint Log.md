@@ -36,7 +36,7 @@
 - OPEX issue
     * [01/30/2024 - DONE] # of task on EB tasks
     * [01/30/2024] split ", or" in answer
-    * [01/31/2024 - 02/02/2024] highlight
+    * [01/31/2024 - 02/02/2024] highlight error in EE checklist
     * [02/05/2024 - 02/07/2024] audit racking log & peer review
     * [] exclude file name
 
