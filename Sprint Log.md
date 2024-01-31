@@ -21,7 +21,7 @@
 
 
 # Rain:
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024, 01/31/2024] M3 Generate proposal flat renew
 - [01/29/2024] HWS Policy Checking
 
 
@@ -35,7 +35,7 @@
 # Chloe:
 - OPEX issue
     * [01/30/2024 - DONE] # of task on EB tasks
-    * [01/30/2024] split ", or" in answer
+    * [01/30/2024 - 01/31/2024 - DONE] split ", or" in answer
     * [01/31/2024 - 02/02/2024] highlight error in EE checklist
     * [02/05/2024 - 02/07/2024] audit racking log & peer review
     * [] exclude file name
