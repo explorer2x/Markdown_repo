@@ -10,6 +10,7 @@
 - EBCOE project
     []
 
+- [02/01/2024 - DONE] GDP macro to download report, maintain code to involve more report type
 
 # Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
@@ -21,9 +22,9 @@
 
 
 # Rain:
-- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024, 01/31/2024] M3 Generate proposal flat renew
+- [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024, 01/31/2024 - 02/02/2024] M3 Generate proposal flat renew
 - [01/29/2024] HWS Policy Checking
-
+- [02/02/2024] M3 close ZENDESK maintain
 
 ## Rain pending
 
