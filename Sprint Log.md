@@ -15,14 +15,15 @@
     [02/19/2024 - DONE] test function to pull wall notification per date
     [02/20/2024 - DONE] test function on betty's server to loop and get wall per date, then handle EE info extraction
     [02/22/2024 - DONE] handle EE info extraction
-    [02/23/2024] test PAD whole solution on betty's server
-    [02/23/2024] observation on Enrollment & Eligibility Process for Chicago Office in CBIZB carrier BCBS IL 
+    [02/23/2024 - DONE] test PAD whole solution on betty's server
+    [02/23/2024 - DONE] observation on Enrollment & Eligibility Process for Chicago Office in CBIZB carrier BCBS IL
     
 - [02/01/2024 - DONE] GDP macro to download report, maintain code to involve more report type
 
 - web printting
     [02/16/2024 - DONE] web printting, python to generate url list and print each url to pdf, combine sub-url pdfs per tabs
     [02/16/2024 - DONE] demo with SDU
+    [02/26/2024] update code per SDU feedback and get back to Mandy
 
 # Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
@@ -35,11 +36,12 @@
 
 # Rain:
 - [12/14/2023 - 12/20/2023, 01/08/2024 - 01/19/2024, 01/25/2024 - 01/26/2024, 01/31/2024 - 02/06/2024 - DONE] M3 Generate proposal flat renew
-    [02/22/2024 - 02/23/2024] fix UAT issue: dup string in PDF extraction
+    [02/22/2024 - 02/23/2024 - DONE] fix UAT issue: dup string in PDF extraction
 
 - [] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
+- [02/26/2024] M3 Generate proposal attach file
 
-- [] M3 Generate proposal attach file
+
 - [01/29/2024 - DONE] HWS Policy Checking
 - [02/02/2024 - DONE] M3 close ZENDESK maintain
 - [02/05/2024 - DONE] HWS Policy Checking macro error fix
@@ -58,8 +60,9 @@
 - OPEX issue
     * [01/30/2024 - DONE] # of task on EB tasks
     * [01/30/2024 - 01/31/2024 - DONE] split ", or" in answer
-    * [01/31/2024 - 02/02/2024] highlight error in EE checklist
-    * [02/14/2024 - 02/20/2024] audit racking log & peer review
+    * [01/31/2024 - 02/02/2024 - DONE] highlight error in EE checklist
+    * [02/14/2024 - 02/20/2024 - DONE] audit racking log & peer review
+    * [02/26/2024] design trainer tab's chart
     * [] exclude file name
 
 - ABD WorkReport Compare Downloaded Report
