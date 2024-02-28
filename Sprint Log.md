@@ -4,7 +4,9 @@
 # Mason:
 
 - EBCOE project
-    []BCBSIL design enroll entry
+    [02/28/2024] test and deploy pull js code from SharePoint
+    [02/28/2024] share finding in log msg 
+    [] BCBSIL design enroll entry
 
 ## Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
@@ -31,7 +33,7 @@
 - Billing Audit
     - [02/28/2024] run macro with test file to generate new result files, check if same with previous file
 
-
+- [02/28/2024] merchants login issue maintain
 
 # Sprint 98 - 99
 ---
@@ -74,7 +76,7 @@
     [02/22/2024 - 02/23/2024 - DONE] fix UAT issue: dup string in PDF extraction
 
 - [] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
-- [02/26/2024] M3 Generate proposal attach file
+- [02/26/2024 - DONE] M3 Generate proposal attach file
 
 
 - [01/29/2024 - DONE] HWS Policy Checking
