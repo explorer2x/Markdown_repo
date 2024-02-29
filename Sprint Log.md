@@ -4,9 +4,14 @@
 # Mason:
 
 - EBCOE project
-    [02/28/2024] test and deploy pull js code from SharePoint
-    [02/28/2024] share finding in log msg 
-    [] BCBSIL design enroll entry
+    [02/28/2024 - DONE] test and deploy pull js code from SharePoint
+    [02/28/2024 - DONE] share finding in log msg 
+
+- BCBSIL design enroll entry
+    - [02/29/2024] define login method
+
+- [02/29/2024] print pdf for all give urls and send to SDU for audit
+
 
 ## Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
@@ -15,25 +20,31 @@
     - [] MOO - occupation
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
 
+
 # Rain:
-- [] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
+- [02/29/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
 - [] HWS research policy checking JS solution
+
 
 ## Rain pending
 - [] AAD claim VC program, low volume, postpone
+- [] AAD tracking log format 
 - [] a universal tool to modify asset in Orch
+
 
 # Chloe:
 - OPEX issue
-    - [02/27/2024 - 02/28/2024] peer review audit issue
-    - [02/28/2024 - 02/29/2024] exclude file name
+    - [02/27/2024 - 02/29/2024] peer review audit issue
+    - [] exclude file name
+
 - ABD Work Report Compare Downloaded Report
     - [] macro error when running in SDU UAT
     - [] debug and update to UIPATH
-- Billing Audit
-    - [02/28/2024] run macro with test file to generate new result files, check if same with previous file
 
-- [02/28/2024] merchants login issue maintain
+- Billing Audit
+    - [02/28/2024 - DONE] run macro with test file to generate new result files, check if same with previous file
+
+- [02/28/2024 - DONE] merchants login issue maintain
 
 # Sprint 98 - 99
 ---
