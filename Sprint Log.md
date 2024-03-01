@@ -8,9 +8,9 @@
     [02/28/2024 - DONE] share finding in log msg 
 
 - BCBSIL design enroll entry
-    - [02/29/2024] define login method
+    - [02/29/2024 - 03/01/2024] define login method
 
-- [02/29/2024] print pdf for all give urls and send to SDU for audit
+- [02/29/2024 - DONE] print pdf for all give urls and send to SDU for audit
 
 
 ## Mason Pending
@@ -24,7 +24,8 @@
 # Rain:
 - [02/29/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
 - [] HWS research policy checking JS solution
-
+- [02/29/2024 - 03/01/2024] M3 close ZENDESK, PROD ENV issue
+- [03/01/2024] AAD claim issue
 
 ## Rain pending
 - [] AAD claim VC program, low volume, postpone
@@ -34,7 +35,7 @@
 
 # Chloe:
 - OPEX issue
-    - [02/27/2024 - 02/29/2024] peer review audit issue
+    - [02/27/2024 - 03/01/2024] peer review audit issue
     - [] exclude file name
 
 - ABD Work Report Compare Downloaded Report
