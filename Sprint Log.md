@@ -16,8 +16,8 @@
 ## Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
 - Maintain JS
-    - [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
-    - [] MOO - occupation
+    [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    [] MOO - occupation
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
 
 
@@ -35,15 +35,15 @@
 
 # Chloe:
 - OPEX issue
-    - [02/27/2024 - 03/01/2024] peer review audit issue
-    - [] exclude file name
+    [02/27/2024 - 03/01/2024] peer review audit issue
+    [] exclude file name
 
 - ABD Work Report Compare Downloaded Report
-    - [] macro error when running in SDU UAT
-    - [] debug and update to UIPATH
+    [] macro error when running in SDU 
+    [] debug and update to UIPATH
 
 - Billing Audit
-    - [02/28/2024 - DONE] run macro with test file to generate new result files, check if same with previous file
+    [02/28/2024 - DONE] run macro with test file to generate new result files, check if same with previous file
 
 - [02/28/2024 - DONE] merchants login issue maintain
 
