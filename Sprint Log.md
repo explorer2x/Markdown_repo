@@ -7,13 +7,19 @@
     [02/28/2024 - DONE] test and deploy pull js code from SharePoint
     [02/28/2024 - DONE] share finding in log msg 
 
+
+
 - BCBSIL design enroll entry
     - [02/29/2024 - 03/01/2024 - DONE] define login method
     - [03/04/2024 - 03/06/2024 - DONE] develop login workflow and SIT
-    - [03/06/2024] code review with Betty
-    - [03/06/2024] review with Betty on OPEX Template Work Log and DC Template
+    - [03/06/2024 - DONE] code review with Betty
+    - [03/06/2024 - DONE] review with Betty on OPEX Template Work Log and DC Template
+    - [03/07/2024 - 03/08/2024 - DONE] pull phone with GET and benefit summary(plan info)
+    - [03/11/2024] handle locate company result(multiple/signle/NF)
 
 - [02/29/2024 - DONE] print pdf for all give urls and send to SDU for audit
+- [03/07/2024 - DONE] transfer OPEX updated code and workflow map to Chloe
+
 
 
 ## Mason Pending
@@ -25,9 +31,10 @@
 
 
 # Rain:
-- [02/29/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
+- [02/29/2024, 03/06/2024 - 03/08/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
+- [03/08/2024 - 03/11/2024] WEB EPIC
 - [] HWS research policy checking JS solution
-- [02/29/2024 - 03/06/2024] M3 close ZENDESK, PROD ENV issue
+- [02/29/2024 - 03/06/2024 - DONE] M3 close ZENDESK, PROD ENV issue
 - [03/01/2024] AAD claim issue
 
 ## Rain pending
@@ -38,21 +45,23 @@
 
 # Chloe:
 - OPEX issue
-    [02/27/2024 - 03/06/2024] peer review audit issue
-    [] exclude file name
+    [02/27/2024 - 03/08/2024 - DONE] peer review audit issue
+    [03/07/2024 - 03/08/2024 - DONE] exclude file name
     [03/04/2024 - 03/05/2024 - DONE] fix enmergency issue from Rosa: AQL not correct, root casue is error ratio report not match daily report
-    [03/05/2024] folder issue, when run email only, change to p drive
-
+    [03/05/2024 - 03/07/2024 - DONE] folder issue, when run email only, change to p drive
 
 
 - ABD Work Report Compare Downloaded Report
     [] macro error when running in SDU 
     [] debug and update to UIPATH
 
+
 - Billing Audit
     [02/28/2024 - DONE] run macro with test file to generate new result files, check if same with previous file
     [03/04/2024 - DONE] send file to Henry
-
+    [] CBIZEB UAT
+    [] FIA UAT
+    [] BLT?
 
 - [02/28/2024 - DONE] merchants login issue maintain
 
