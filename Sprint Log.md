@@ -1,3 +1,67 @@
+# Sprint 101
+---
+
+# Mason:
+
+- EBCOE BCBSIL design enroll entry
+    - [03/11/2024 - 03/13/2024] handle locate company result(multiple/signle/NF)
+    - [03/13/2024] Locate EE and handle locate result(multiple/signle/NF)
+
+- Maintain JS
+    [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
+    [] MOO - occupation
+
+
+# Rain:
+- [02/29/2024, 03/06/2024 - 03/08/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
+- [03/08/2024 - 03/11/2024] WEB EPIC
+- [] HWS research policy checking JS solution
+
+## Rain pending
+- [] AAD claim VC program, low volume, postpone
+- [] AAD tracking log format 
+- [] a universal tool to modify asset in Orch
+
+
+# Chloe:
+- OPEX issue
+    [02/27/2024 - 03/13/2024] peer review audit issue, audit tracklog and log error
+    [] SIT
+
+- [03/18/2024 - 03/22/2024] ADP Work Report Compare macro debug
+    [] SIT Employee and Dependent/Beneficiary Enrollments report
+    [] SIT Termination report
+    [] SIT Employee Enrollments Comparison report
+    [] update CONFIG file following reuseable rule
+
+- [03/12/2024 - DONE] THH Cumberland bug fix
+
+## Chloe Pending
+
+- ABD Work Report Compare
+    [] set up config for # system # report type
+    [] update macro to compare 2 reports per config
+    [] SIT 1 system report with all report type
+    [] UAT
+
+- ABD Work Report Downloaded Report - ? system
+    1. login Websit(error handle for password expire notice)
+    2. generate 3 kind of report and download report, Save to filetodcs
+    3. SIT the bot
+
+
+
+
+
+
+- Billing Audit
+    [02/28/2024 - DONE] run macro with test file to generate new result files, check if same with previous file
+    [03/04/2024 - DONE] send file to Henry
+    [] CBIZEB UAT
+    [] FIA UAT
+    [] BLT?
+
+
 # Sprint 100
 ---
 
@@ -8,7 +72,7 @@
     [02/28/2024 - DONE] share finding in log msg 
 
 
-
+## Mason Pending
 - BCBSIL design enroll entry
     - [02/29/2024 - 03/01/2024 - DONE] define login method
     - [03/04/2024 - 03/06/2024 - DONE] develop login workflow and SIT
@@ -24,9 +88,7 @@
 
 ## Mason Pending
 - [10/12/2023 - 10/13/2023, 10/23/2023 - 10/24/2023] GDP - macro to combine 3 CFO report into template
-- Maintain JS
-    [10/31/2023 - 11/15/2023] DeltaAllied re-design due to website upgrade
-    [] MOO - occupation
+
 - [11/14/2023 - 11/17/2023, 12/06/2023, 12/19/2023] GDP Shortclaim develop
 
 
@@ -35,7 +97,7 @@
 - [03/08/2024 - 03/11/2024] WEB EPIC
 - [] HWS research policy checking JS solution
 - [02/29/2024 - 03/06/2024 - DONE] M3 close ZENDESK, PROD ENV issue
-- [03/01/2024] AAD claim issue
+- [03/01/2024 - DONE] AAD claim issue
 
 ## Rain pending
 - [] AAD claim VC program, low volume, postpone
