@@ -7,6 +7,8 @@
 - EBCOE BCBSIL design enroll entry
   - [03/11/2024 - 03/13/2024 - DONE] handle locate company result(multiple/single/NF)
   - [03/13/2024 - DONE] Locate EE and handle locate result(multiple/single/NF)
+  - [03/14/2024 - 03/15/2024] draft workflow map for current PAD workflow - LOGIN BCBSIL, NAVIGATE to company and check EE status
+  - [03/15/2024] SIT LOGIN BCBSIL, NAVIGATE to company and check EE status
   - [03/14/2024] define Data Table for EN and BCBSIL
   - [03/14/2024] define JSON Structure for EN and BCBSIL Data Table 
   - [] macro to convert data table to JSON
@@ -25,11 +27,12 @@
 - [02/29/2024, 03/06/2024 - 03/08/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
 - [03/08/2024 - 03/11/2024] WEB EPIC
 - [] HWS research policy checking JS solution
-- [03/14/2024] M3 generate proposal flat renew maintain
+- [03/14/2024 - DONE] M3 generate proposal flat renew maintain
+- [03/14/2024 - DONE] observed AAD claim VC program
+- [03/15/2024] AAD claim VC program
 
 ### Rain pending
 
-- [] AAD claim VC program, low volume, postpone
 - [] AAD tracking log format 
 - [] a universal tool to modify asset in Orch
 
@@ -40,14 +43,12 @@
 - OPEX issue
   - [02/27/2024 - 03/14/2024] peer review audit issue, audit tracklog and log error
   - [] SIT
-
 - [03/18/2024 - 03/22/2024] ADP Work Report Compare macro debug
   - [] SIT Employee and Dependent/Beneficiary Enrollments report
   - [] SIT Termination report
   - [] SIT Employee Enrollments Comparison report
   - [] update CONFIG file following reusable rule
-
-- [03/12/2024 - 03/14/2024] THH Cumberland bug fix
+- [03/12/2024 - 03/15/2024] THH Cumberland bug fix
 
 ### Chloe Pending
 
@@ -58,7 +59,7 @@
   - [] UAT
 
 - ABD Work Report Downloaded Report - ? system
-  1. login Websit(error handle for password expire notice)
+  1. login Website (error handle for password expire notice)
   2. generate 3 kind of report and download report, Save to filetodcs
   3. SIT the bot
 
