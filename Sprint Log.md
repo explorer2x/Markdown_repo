@@ -9,8 +9,9 @@
   - [03/13/2024 - DONE] Locate EE and handle locate result(multiple/single/NF)
   - [03/14/2024 - 03/18/2024 - DONE] draft workflow map for current PAD workflow - LOGIN BCBSIL, NAVIGATE to company and check EE status
   - [03/15/2024 - DONE] SIT LOGIN BCBSIL, NAVIGATE to company and check EE status
-  - [03/14/2024 - 03/19/2024] define Data Table for EN and BCBSIL
-  - [03/14/2024 - 03/19/2024] define JSON Structure for EN and BCBSIL Data Table 
+  - [03/14/2024 - 03/20/2024] define Data Table for EN and BCBSIL
+  - [03/19/2024 - 03/20/2024] macro to fill in the Data Table
+  - [03/14/2024 - 03/19/2024 - DONE] define JSON Structure for EN and BCBSIL Data Table 
   - [] macro to convert data table to JSON
   - [] JS to entry BCBSIL
   - [] PAD to invoke JS to entry in BCBSIL
@@ -25,18 +26,20 @@
 ## Rain:
 
 - [02/29/2024, 03/06/2024 - 03/08/2024] HWS DB statement entry, seek if pdf could transfer to excel format and import into EPIC
-- [03/08/2024 - 03/11/2024] WEB EPIC
+- [03/08/2024 - 03/11/2024, 03/20/2024] WEB EPIC research
 - [] HWS research policy checking JS solution
 - [03/14/2024 - DONE] M3 generate proposal flat renew maintain
 - [03/14/2024 - DONE] observed AAD claim VC program
 - [03/15/2024 - DONE] AAD claim VC program
+- [03/19/2024 - DONE] AAD claim VC program decision part
 - [03/15/2024 - 03/18/2024 - DONE] AAD DAS report macro
-- [03/19/2024] AAD claim setup maintain changes
+- [03/19/2024 - DONE] AAD claim setup maintain changes
 
 ### Rain pending
 
-- [] AAD tracking log format 
 - [] a universal tool to modify asset in Orch
+- [] HWS EPIC redesign
+- [] M3 EPIC redesign
 
 
 
@@ -44,7 +47,7 @@
 
 - OPEX issue
   - [02/27/2024 - 03/19/2024] peer review audit issue, audit tracklog and log error
-  - [03/19/2024] SIT
+  - [03/19/2024 - ?] SIT
 - [03/18/2024 - 03/22/2024] ADP Work Report Compare macro debug
   - [] SIT Employee and Dependent/Beneficiary Enrollments report
   - [] SIT Termination report
