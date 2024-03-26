@@ -1,3 +1,97 @@
+# Sprint 102
+
+---
+
+## Mason:
+
+- EBCOE BCBSIL design enroll entry
+
+  - [] macro to convert data table to JSON
+  - [] JS to entry BCBSIL with JSON page by page
+  - [] PAD to invoke JS to entry in BCBSIL
+
+- GDP maintain
+
+  - [03/26/2024] PAD and macro to upload remained files
+
+    
+
+- Maintain JS
+
+  - [10/31/2023 - 11/15/2023] Delta Allied re-design due to website upgrade
+  - [] MOO - occupation
+
+
+
+## Rain:
+
+- HWS DB statement entry
+  - [02/29/2024, 03/06/2024 - 03/08/2024]see if pdf could transfer to excel format and import into EPIC
+  - [03/26/2024] PAD re-write
+
+
+### Rain pending
+
+- [] a universal tool to modify asset in Orch
+- [] HWS EPIC redesign
+- [] M3 EPIC redesign
+- [03/08/2024 - 03/11/2024, 03/20/2024] WEB EPIC research
+- [] HWS research policy checking JS solution
+
+
+
+## Chloe:
+
+- OPEX issue
+
+  - [03/19/2024, 03/21/2024 - 03/29/2024] SIT
+
+  
+
+- [03/18/2024 - 03/22/2024, 03/25/2024] ADP Work Report Compare macro debug
+
+  - [03/25/2024 - 04/03/2024] SIT Employee and Dependent/Beneficiary Enrollments report; SIT Termination report; SIT Employee Enrollments Comparison report
+  - [03/26/2024 - 03/29/2024] fix error with duplicate result
+  - [03/26/2024 - 03/29/2024] fix error when find report by date in file name
+  - [03/26/2024 - 03/29/2024] handle exception when file cannot find
+  - [04/03/2024] demo with henry 
+  - [04/08/2024] UAT with ABD team
+  - [04/08/2024 - ?] update CONFIG file following reusable rule
+
+  
+
+- Billing Audit 
+
+  - [03/27/2024]update config
+
+
+### Chloe Pending
+
+- ABD Work Report Compare
+  - [] set up config for # system # report type
+  - [] update macro to compare 2 reports per config
+  - [] SIT 1 system report with all report type
+  - [] UAT
+- ABD Work Report Downloaded Report - ? system
+  1. login Website (error handle for password expire notice)
+  2. generate 3 kind of report and download report, Save to filetodcs
+  3. SIT the bot
+
+
+
+### Billing Audit
+
+- [] CBIZEB UAT
+  - ？
+- [] FIA UAT
+  - April or May in production
+- [] BLT
+  - April or May in production
+
+
+
+
+
 # Sprint 101
 
 ---
@@ -92,6 +186,10 @@
   - [] CBIZEB UAT
   - [] FIA UAT
   - [] BLT?
+
+
+
+
 
 
 # Sprint 100
