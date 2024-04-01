@@ -9,10 +9,13 @@
   - [] macro to convert data table to JSON
   - [] JS to entry BCBSIL with JSON page by page
   - [] PAD to invoke JS to entry in BCBSIL
+  - [03/27/2024 - DONE] re-document BRD from OPEX
+  - [03/28/2024 - DONE] add JS extract benefit summary and timeline
+  - [03/29/2024 - DONE] extract plan type and name from BSBCIL
 
 - GDP maintain
 
-  - [03/26/2024] PAD and macro to upload remained files
+  - [03/29/2024 - DONE] macro to upload remained files
 
     
 
@@ -26,8 +29,9 @@
 ## Rain:
 
 - HWS DB statement entry
-  - [02/29/2024, 03/06/2024 - 03/08/2024]see if pdf could transfer to excel format and import into EPIC
-  - [03/26/2024] PAD re-write
+  - [02/29/2024, 03/06/2024 - 03/08/2024] see if pdf could transfer to excel format and import into EPIC
+  - [03/26/2024 - 03/29/2024] PAD re-write
+- [03/28/2024 - 03/29/2024 - DONE] AAD add-feature and VC program solution change
 
 
 ### Rain pending
@@ -45,15 +49,17 @@
 - OPEX issue
 
   - [03/19/2024, 03/21/2024 - 03/29/2024] SIT
-
-  
+  - [04/01/2024] peer review 1 issue with new request
+    
+    
 
 - [03/18/2024 - 03/22/2024, 03/25/2024] ADP Work Report Compare macro debug
 
   - [03/25/2024 - 04/03/2024] SIT Employee and Dependent/Beneficiary Enrollments report; SIT Termination report; SIT Employee Enrollments Comparison report
-  - [03/26/2024 - 03/29/2024] fix error with duplicate result
-  - [03/26/2024 - 03/29/2024] fix error when find report by date in file name
-  - [03/26/2024 - 03/29/2024] handle exception when file cannot find
+  - [03/26/2024 - 03/28/2024 - DONE] fix error with duplicate result
+  - [03/26/2024 - 03/27/2024 - DONE] fix error when find report by date in file name
+  - [03/26/2024 - 03/27/2024 - DONE] handle exception when file cannot find
+  - [03/26/2024 - 03/29/2024 - DONE] cannot locate *** column for current/previous Employee and Dependent/Beneficiary Enrollments report
   - [04/03/2024] demo with henry 
   - [04/08/2024] UAT with ABD team
   - [04/08/2024 - ?] update CONFIG file following reusable rule
@@ -62,7 +68,15 @@
 
 - Billing Audit 
 
-  - [03/27/2024]update config
+  - [03/27/2024] update config
+  - [03/28/2024] sync title names in merge data tab to handle child premium split when process multiple dependents under ADD
+
+
+
+- [03/28/2024 - DONE] THH Cumberland sending email fix
+- [03/29/2024 - 04/01/2024] THH Cumberland same result with all client name
+
+
 
 
 ### Chloe Pending
@@ -83,10 +97,13 @@
 
 - [] CBIZEB UAT
   - ？
+
 - [] FIA UAT
   - April or May in production
+
 - [] BLT
   - April or May in production
+
 
 
 
